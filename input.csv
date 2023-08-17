@@ -1,0 +1,721 @@
+,match_id,innings,venue,season,batting_team,bowling_team,batsmen,bolwers,run
+0,829733.0,1.0,Maharashtra Cricket Association Stadium,2015.0,Kings XI Punjab,Kolkata Knight Riders,GJ Maxwell:WP Saha:GJ Bailey:M Vijay:V Sehwag:,M Morkel:AD Russell:UT Yadav:,48.0
+1,829733.0,2.0,Maharashtra Cricket Association Stadium,2015.0,Kolkata Knight Riders,Kings XI Punjab,SA Yadav:RV Uthappa:MK Pandey:G Gambhir:,MG Johnson:Anureet Singh:Sandeep Sharma:,53.0
+2,829735.0,1.0,"Sardar Patel Stadium, Motera",2015.0,Chennai Super Kings,Rajasthan Royals,BB McCullum:F du Plessis:DR Smith:SK Raina:,Ankit Sharma:CH Morris:DJ Hooda:JP Faulkner:PV Tambe:,39.0
+3,829735.0,2.0,"Sardar Patel Stadium, Motera",2015.0,Rajasthan Royals,Chennai Super Kings,SR Watson:AM Rahane:,IC Pandey:A Nehra:MM Sharma:,47.0
+4,829737.0,1.0,M Chinnaswamy Stadium,2015.0,Mumbai Indians,Royal Challengers Bangalore,LMP Simmons:PA Patel:UBT Chand:,VR Aaron:D Wiese:Iqbal Abdulla:AN Ahmed:,48.0
+5,829737.0,2.0,M Chinnaswamy Stadium,2015.0,Royal Challengers Bangalore,Mumbai Indians,CH Gayle:MS Bisla:V Kohli:,MJ McClenaghan:Harbhajan Singh:JJ Bumrah:SL Malinga:,33.0
+6,829739.0,1.0,Arun Jaitley Stadium,2015.0,Delhi Daredevils,Kolkata Knight Riders,JP Duminy:MA Agarwal:MK Tiwary:SS Iyer:,M Morkel:SP Narine:AD Russell:UT Yadav:,34.0
+7,829739.0,2.0,Arun Jaitley Stadium,2015.0,Kolkata Knight Riders,Delhi Daredevils,SA Yadav:RV Uthappa:MK Pandey:G Gambhir:,NM Coulter-Nile:DJ Muthuswami:AD Mathews:,48.0
+8,829741.0,1.0,"Sardar Patel Stadium, Motera",2015.0,Rajasthan Royals,Kings XI Punjab,SR Watson:AM Rahane:,MG Johnson:Anureet Singh:Sandeep Sharma:,43.0
+9,829741.0,2.0,"Sardar Patel Stadium, Motera",2015.0,Kings XI Punjab,Rajasthan Royals,M Vijay:V Sehwag:SE Marsh:,CH Morris:PV Tambe:JP Faulkner:STR Binny:,40.0
+10,829743.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015.0,Sunrisers Hyderabad,Kolkata Knight Riders,S Dhawan:DA Warner:,M Morkel:SP Narine:J Botha:,43.0
+11,829743.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015.0,Kolkata Knight Riders,Sunrisers Hyderabad,AD Russell:RV Uthappa:MK Pandey:G Gambhir:,DW Steyn:MC Henriques:KV Sharma:P Kumar:B Kumar:,49.0
+12,829745.0,1.0,M Chinnaswamy Stadium,2015.0,Chennai Super Kings,Royal Challengers Bangalore,BB McCullum:DR Smith:SK Raina:,YS Chahal:D Wiese:HV Patel:MA Starc:,45.0
+13,829745.0,2.0,M Chinnaswamy Stadium,2015.0,Royal Challengers Bangalore,Chennai Super Kings,V Kohli:KD Karthik:MS Bisla:RR Rossouw:,IC Pandey:A Nehra:MM Sharma:,38.0
+14,829747.0,1.0,Arun Jaitley Stadium,2015.0,Delhi Daredevils,Mumbai Indians,JP Duminy:MA Agarwal:SS Iyer:,MJ McClenaghan:Harbhajan Singh:JJ Bumrah:SL Malinga:,45.0
+15,829747.0,2.0,Arun Jaitley Stadium,2015.0,Mumbai Indians,Delhi Daredevils,LMP Simmons:PA Patel:UBT Chand:,NM Coulter-Nile:AD Mathews:DJ Muthuswami:JP Duminy:,48.0
+16,829749.0,1.0,"Sardar Patel Stadium, Motera",2015.0,Rajasthan Royals,Royal Challengers Bangalore,SPD Smith:SR Watson:AM Rahane:KK Nair:,YS Chahal:Iqbal Abdulla:HV Patel:MA Starc:,48.0
+17,829749.0,2.0,"Sardar Patel Stadium, Motera",2015.0,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle:AB de Villiers:V Kohli:,JP Faulkner:CH Morris:DS Kulkarni:SR Watson:,49.0
+18,829705.0,1.0,Eden Gardens,2015.0,Mumbai Indians,Kolkata Knight Riders,AJ Finch:RG Sharma:AP Tare:AT Rayudu:CJ Anderson:,M Morkel:Shakib Al Hasan:UT Yadav:,37.0
+19,829705.0,2.0,Eden Gardens,2015.0,Kolkata Knight Riders,Mumbai Indians,RV Uthappa:MK Pandey:G Gambhir:,CJ Anderson:JJ Bumrah:R Vinay Kumar:SL Malinga:,38.0
+20,829707.0,1.0,MA Chidambaram Stadium,2015.0,Chennai Super Kings,Delhi Daredevils,BB McCullum:F du Plessis:DR Smith:SK Raina:,NM Coulter-Nile:JA Morkel:DJ Muthuswami:,59.0
+21,829707.0,2.0,MA Chidambaram Stadium,2015.0,Delhi Daredevils,Chennai Super Kings,KM Jadhav:JA Morkel:CM Gautam:MA Agarwal:SS Iyer:,MM Sharma:A Nehra:,40.0
+22,829709.0,1.0,Maharashtra Cricket Association Stadium,2015.0,Rajasthan Royals,Kings XI Punjab,SV Samson:SPD Smith:KK Nair:AM Rahane:,AR Patel:Anureet Singh:Sandeep Sharma:,35.0
+23,829709.0,2.0,Maharashtra Cricket Association Stadium,2015.0,Kings XI Punjab,Rajasthan Royals,WP Saha:GJ Maxwell:M Vijay:V Sehwag:AR Patel:,TG Southee:CH Morris:JP Faulkner:DS Kulkarni:,51.0
+24,829713.0,1.0,Eden Gardens,2015.0,Kolkata Knight Riders,Royal Challengers Bangalore,RV Uthappa:G Gambhir:,VR Aaron:AN Ahmed:SA Abbott:HV Patel:,53.0
+25,829713.0,2.0,Eden Gardens,2015.0,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle:KD Karthik:V Kohli:,M Morkel:SP Narine:KC Cariappa:,41.0
+26,829711.0,1.0,MA Chidambaram Stadium,2015.0,Chennai Super Kings,Sunrisers Hyderabad,BB McCullum:DR Smith:,I Sharma:TA Boult:B Kumar:KV Sharma:,49.0
+27,829711.0,2.0,MA Chidambaram Stadium,2015.0,Sunrisers Hyderabad,Chennai Super Kings,S Dhawan:DA Warner:KL Rahul:,MM Sharma:A Nehra:,46.0
+28,829715.0,1.0,Arun Jaitley Stadium,2015.0,Delhi Daredevils,Rajasthan Royals,JP Duminy:MA Agarwal:SS Iyer:,TG Southee:CH Morris:DJ Hooda:DS Kulkarni:PV Tambe:,51.0
+29,829715.0,2.0,Arun Jaitley Stadium,2015.0,Rajasthan Royals,Delhi Daredevils,SV Samson:SPD Smith:AM Rahane:,NM Coulter-Nile:AD Mathews:JD Unadkat:,42.0
+30,829717.0,1.0,Wankhede Stadium,2015.0,Kings XI Punjab,Mumbai Indians,M Vijay:V Sehwag:,P Suyal:R Vinay Kumar:SL Malinga:,57.0
+31,829717.0,2.0,Wankhede Stadium,2015.0,Mumbai Indians,Kings XI Punjab,AJ Finch:RG Sharma:AP Tare:AT Rayudu:CJ Anderson:,MG Johnson:Anureet Singh:Sandeep Sharma:,17.0
+32,829719.0,1.0,M Chinnaswamy Stadium,2015.0,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle:KD Karthik:V Kohli:,TA Boult:B Kumar:P Kumar:,47.0
+33,829719.0,2.0,M Chinnaswamy Stadium,2015.0,Sunrisers Hyderabad,Royal Challengers Bangalore,S Dhawan:DA Warner:,VR Aaron:AN Ahmed:SA Abbott:HV Patel:,65.0
+34,829721.0,1.0,"Sardar Patel Stadium, Motera",2015.0,Mumbai Indians,Rajasthan Royals,PA Patel:RG Sharma:AJ Finch:UBT Chand:,TG Southee:CH Morris:DS Kulkarni:STR Binny:,31.0
+35,829721.0,2.0,"Sardar Patel Stadium, Motera",2015.0,Rajasthan Royals,Mumbai Indians,SV Samson:SPD Smith:AM Rahane:,P Suyal:R Vinay Kumar:SL Malinga:,42.0
+36,829725.0,1.0,Maharashtra Cricket Association Stadium,2015.0,Kings XI Punjab,Delhi Daredevils,M Vijay:WP Saha:V Sehwag:,NM Coulter-Nile:DJ Muthuswami:AD Mathews:,41.0
+37,829725.0,2.0,Maharashtra Cricket Association Stadium,2015.0,Delhi Daredevils,Kings XI Punjab,JP Duminy:MA Agarwal:SS Iyer:,MG Johnson:Anureet Singh:Sandeep Sharma:,47.0
+38,829727.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015.0,Sunrisers Hyderabad,Rajasthan Royals,EJG Morgan:S Dhawan:DA Warner:NV Ojha:KL Rahul:,TG Southee:CH Morris:DJ Hooda:DS Kulkarni:,35.0
+39,829727.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015.0,Rajasthan Royals,Sunrisers Hyderabad,SV Samson:AM Rahane:,TA Boult:B Kumar:P Kumar:,36.0
+40,829729.0,1.0,Wankhede Stadium,2015.0,Mumbai Indians,Chennai Super Kings,LMP Simmons:Harbhajan Singh:PA Patel:RG Sharma:CJ Anderson:,IC Pandey:A Nehra:MM Sharma:,31.0
+41,829729.0,2.0,Wankhede Stadium,2015.0,Chennai Super Kings,Mumbai Indians,BB McCullum:DR Smith:,P Suyal:J Suchith:Harbhajan Singh:SL Malinga:,90.0
+42,829731.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015.0,Delhi Daredevils,Sunrisers Hyderabad,JP Duminy:MA Agarwal:SS Iyer:,P Kumar:B Kumar:DW Steyn:,40.0
+43,829731.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2015.0,Sunrisers Hyderabad,Delhi Daredevils,S Dhawan:DA Warner:,NM Coulter-Nile:JP Duminy:AD Mathews:DJ Muthuswami:,50.0
+44,829751.0,1.0,Wankhede Stadium,2015.0,Mumbai Indians,Sunrisers Hyderabad,LMP Simmons:PA Patel:UBT Chand:,TA Boult:B Kumar:DW Steyn:,46.0
+45,829751.0,2.0,Wankhede Stadium,2015.0,Sunrisers Hyderabad,Mumbai Indians,S Dhawan:DA Warner:KL Rahul:,MJ McClenaghan:Harbhajan Singh:SL Malinga:,52.0
+46,829753.0,1.0,MA Chidambaram Stadium,2015.0,Chennai Super Kings,Kings XI Punjab,BB McCullum:DR Smith:SK Raina:,MG Johnson:Karanveer Singh:Anureet Singh:Sandeep Sharma:,54.0
+47,829753.0,2.0,MA Chidambaram Stadium,2015.0,Kings XI Punjab,Chennai Super Kings,M Vijay:V Sehwag:SE Marsh:GJ Bailey:,IC Pandey:A Nehra:MM Sharma:,39.0
+48,829757.0,1.0,Arun Jaitley Stadium,2015.0,Delhi Daredevils,Royal Challengers Bangalore,JP Duminy:MA Agarwal:Yuvraj Singh:SS Iyer:,VR Aaron:D Wiese:HV Patel:MA Starc:,38.0
+49,829757.0,2.0,Arun Jaitley Stadium,2015.0,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle:V Kohli:,NM Coulter-Nile:Imran Tahir:DJ Muthuswami:JP Duminy:,50.0
+50,829759.0,1.0,Punjab Cricket Association IS Bindra Stadium,2015.0,Sunrisers Hyderabad,Kings XI Punjab,GH Vihari:S Dhawan:DA Warner:,MG Johnson:Anureet Singh:Sandeep Sharma:,56.0
+51,829759.0,2.0,Punjab Cricket Association IS Bindra Stadium,2015.0,Kings XI Punjab,Sunrisers Hyderabad,M Vijay:M Vohra:SE Marsh:GJ Bailey:,TA Boult:B Kumar:P Kumar:,36.0
+52,829765.0,1.0,MA Chidambaram Stadium,2015.0,Chennai Super Kings,Kolkata Knight Riders,BB McCullum:DR Smith:SK Raina:,PJ Cummins:UT Yadav:PP Chawla:,53.0
+53,829765.0,2.0,MA Chidambaram Stadium,2015.0,Kolkata Knight Riders,Chennai Super Kings,SA Yadav:RV Uthappa:MK Pandey:G Gambhir:,IC Pandey:R Ashwin:A Nehra:MM Sharma:,54.0
+54,829723.0,1.0,Eden Gardens,2015.0,Chennai Super Kings,Kolkata Knight Riders,DJ Bravo:MS Dhoni:SK Raina:BB McCullum:DR Smith:F du Plessis:,PJ Cummins:GB Hogg:UT Yadav:PP Chawla:,69.0
+55,829723.0,2.0,Eden Gardens,2015.0,Kolkata Knight Riders,Chennai Super Kings,RV Uthappa:MK Pandey:G Gambhir:,MM Sharma:A Nehra:,38.0
+56,829767.0,1.0,Arun Jaitley Stadium,2015.0,Kings XI Punjab,Delhi Daredevils,DA Miller:M Vohra:WP Saha:SE Marsh:GJ Bailey:V Sehwag:,NM Coulter-Nile:Z Khan:JP Duminy:,27.0
+57,829767.0,2.0,Arun Jaitley Stadium,2015.0,Delhi Daredevils,Kings XI Punjab,MA Agarwal:SS Iyer:,SN Thakur:Anureet Singh:Sandeep Sharma:,41.0
+58,829769.0,1.0,Wankhede Stadium,2015.0,Mumbai Indians,Rajasthan Royals,LMP Simmons:PA Patel:UBT Chand:,TG Southee:J Theron:DS Kulkarni:SR Watson:,47.0
+59,829769.0,2.0,Wankhede Stadium,2015.0,Rajasthan Royals,Mumbai Indians,SV Samson:SR Watson:AM Rahane:,J Suchith:MJ McClenaghan:R Vinay Kumar:SL Malinga:,55.0
+60,829771.0,1.0,M Chinnaswamy Stadium,2015.0,Kolkata Knight Riders,Royal Challengers Bangalore,AD Russell:RV Uthappa:G Gambhir:,HV Patel:MA Starc:VR Aaron:YS Chahal:D Wiese:,61.0
+61,829771.0,2.0,M Chinnaswamy Stadium,2015.0,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle:Mandeep Singh:AB de Villiers:V Kohli:,PJ Cummins:GB Hogg:UT Yadav:PP Chawla:,62.0
+62,829773.0,1.0,Rajiv Gandhi International Stadium,2015.0,Sunrisers Hyderabad,Chennai Super Kings,S Dhawan:DA Warner:,MM Sharma:A Nehra:RG More:,76.0
+63,829773.0,2.0,Rajiv Gandhi International Stadium,2015.0,Chennai Super Kings,Sunrisers Hyderabad,BB McCullum:F du Plessis:DR Smith:SK Raina:,TA Boult:B Kumar:MC Henriques:P Kumar:,54.0
+64,829775.0,1.0,Punjab Cricket Association IS Bindra Stadium,2015.0,Mumbai Indians,Kings XI Punjab,LMP Simmons:PA Patel:,MG Johnson:Anureet Singh:Sandeep Sharma:AR Patel:,51.0
+65,829775.0,2.0,Punjab Cricket Association IS Bindra Stadium,2015.0,Kings XI Punjab,Mumbai Indians,DA Miller:M Vijay:GJ Maxwell:V Sehwag:,J Suchith:MJ McClenaghan:R Vinay Kumar:SL Malinga:,45.0
+66,829777.0,1.0,Brabourne Stadium,2015.0,Rajasthan Royals,Delhi Daredevils,SR Watson:AM Rahane:,GS Sandhu:NM Coulter-Nile:Z Khan:,43.0
+67,829777.0,2.0,Brabourne Stadium,2015.0,Delhi Daredevils,Rajasthan Royals,JP Duminy:MA Agarwal:Yuvraj Singh:SS Iyer:,TG Southee:SR Watson:DS Kulkarni:STR Binny:,55.0
+68,829779.0,1.0,MA Chidambaram Stadium,2015.0,Chennai Super Kings,Royal Challengers Bangalore,BB McCullum:F du Plessis:DR Smith:SK Raina:,YS Chahal:D Wiese:HV Patel:MA Starc:,37.0
+69,829779.0,2.0,MA Chidambaram Stadium,2015.0,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers:V Kohli:Mandeep Singh:NJ Maddinson:KD Karthik:,IC Pandey:A Nehra:MM Sharma:,42.0
+70,829781.0,1.0,Eden Gardens,2015.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:G Gambhir:,P Kumar:B Kumar:MC Henriques:DW Steyn:,55.0
+71,829781.0,2.0,Eden Gardens,2015.0,Sunrisers Hyderabad,Kolkata Knight Riders,EJG Morgan:S Dhawan:DA Warner:NV Ojha:MC Henriques:,AD Russell:GB Hogg:UT Yadav:J Botha:,33.0
+72,829783.0,1.0,Wankhede Stadium,2015.0,Delhi Daredevils,Mumbai Indians,KM Jadhav:JP Duminy:MA Agarwal:SS Iyer:,MJ McClenaghan:Harbhajan Singh:R Vinay Kumar:SL Malinga:,44.0
+73,829783.0,2.0,Wankhede Stadium,2015.0,Mumbai Indians,Delhi Daredevils,LMP Simmons:Harbhajan Singh:HH Pandya:PA Patel:RG Sharma:AT Rayudu:,NM Coulter-Nile:Z Khan:AD Mathews:,41.0
+74,829785.0,1.0,M Chinnaswamy Stadium,2015.0,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle:V Kohli:,MG Johnson:Anureet Singh:Sandeep Sharma:,68.0
+75,829785.0,2.0,M Chinnaswamy Stadium,2015.0,Kings XI Punjab,Royal Challengers Bangalore,DA Miller:M Vohra:GJ Maxwell:WP Saha:GJ Bailey:M Vijay:,S Aravind:HV Patel:MA Starc:,34.0
+76,829787.0,1.0,Brabourne Stadium,2015.0,Sunrisers Hyderabad,Rajasthan Royals,MC Henriques:S Dhawan:DA Warner:,CH Morris:DS Kulkarni:SR Watson:DJ Hooda:JP Faulkner:,56.0
+77,829787.0,2.0,Brabourne Stadium,2015.0,Rajasthan Royals,Sunrisers Hyderabad,SPD Smith:SR Watson:AM Rahane:KK Nair:,I Sharma:P Kumar:B Kumar:,36.0
+78,829761.0,1.0,Eden Gardens,2015.0,Kolkata Knight Riders,Delhi Daredevils,RV Uthappa:MK Pandey:G Gambhir:,JA Morkel:Z Khan:JP Duminy:,50.0
+79,829761.0,2.0,Eden Gardens,2015.0,Delhi Daredevils,Kolkata Knight Riders,MK Tiwary:SS Iyer:,SP Narine:AD Russell:UT Yadav:,36.0
+80,829789.0,1.0,MA Chidambaram Stadium,2015.0,Chennai Super Kings,Mumbai Indians,BB McCullum:DR Smith:SK Raina:,J Suchith:M de Lange:MJ McClenaghan:R Vinay Kumar:,44.0
+81,829789.0,2.0,MA Chidambaram Stadium,2015.0,Mumbai Indians,Chennai Super Kings,LMP Simmons:PA Patel:,R Ashwin:A Nehra:MM Sharma:,61.0
+82,829791.0,1.0,Eden Gardens,2015.0,Kings XI Punjab,Kolkata Knight Riders,M Vijay:M Vohra:WP Saha:,SP Narine:AD Russell:UT Yadav:J Botha:,45.0
+83,829791.0,2.0,Eden Gardens,2015.0,Kolkata Knight Riders,Kings XI Punjab,RV Uthappa:MK Pandey:G Gambhir:,BE Hendricks:Anureet Singh:Sandeep Sharma:AR Patel:,57.0
+84,829793.0,1.0,Shaheed Veer Narayan Singh International Stadium,2015.0,Sunrisers Hyderabad,Delhi Daredevils,MC Henriques:EJG Morgan:S Dhawan:DA Warner:,NM Coulter-Nile:Z Khan:J Yadav:,41.0
+85,829793.0,2.0,Shaheed Veer Narayan Singh International Stadium,2015.0,Delhi Daredevils,Sunrisers Hyderabad,SS Iyer:JP Duminy:Q de Kock:,I Sharma:P Kumar:B Kumar:Parvez Rasool:,49.0
+86,829795.0,1.0,Wankhede Stadium,2015.0,Royal Challengers Bangalore,Mumbai Indians,CH Gayle:AB de Villiers:V Kohli:,J Suchith:MJ McClenaghan:JJ Bumrah:SL Malinga:,39.0
+87,829795.0,2.0,Wankhede Stadium,2015.0,Mumbai Indians,Royal Challengers Bangalore,LMP Simmons:PA Patel:RG Sharma:,S Aravind:D Wiese:HV Patel:MA Starc:,45.0
+88,829797.0,1.0,MA Chidambaram Stadium,2015.0,Chennai Super Kings,Rajasthan Royals,BB McCullum:F du Plessis:DR Smith:SK Raina:,CH Morris:PV Tambe:Ankit Sharma:SR Watson:,36.0
+89,829797.0,2.0,MA Chidambaram Stadium,2015.0,Rajasthan Royals,Chennai Super Kings,SPD Smith:SR Watson:AM Rahane:,MM Sharma:A Nehra:,40.0
+90,829799.0,1.0,Rajiv Gandhi International Stadium,2015.0,Sunrisers Hyderabad,Kings XI Punjab,S Dhawan:DA Warner:,BE Hendricks:Gurkeerat Singh:Anureet Singh:Sandeep Sharma:,56.0
+91,829799.0,2.0,Rajiv Gandhi International Stadium,2015.0,Kings XI Punjab,Sunrisers Hyderabad,M Vijay:M Vohra:WP Saha:,I Sharma:TA Boult:B Kumar:Bipul Sharma:,47.0
+92,829801.0,1.0,Shaheed Veer Narayan Singh International Stadium,2015.0,Chennai Super Kings,Delhi Daredevils,BB McCullum:DR Smith:,Z Khan:S Nadeem:,16.0
+93,829801.0,2.0,Shaheed Veer Narayan Singh International Stadium,2015.0,Delhi Daredevils,Chennai Super Kings,SS Iyer:JP Duminy:Yuvraj Singh:Q de Kock:,IC Pandey:R Ashwin:MM Sharma:,28.0
+94,829803.0,1.0,Punjab Cricket Association IS Bindra Stadium,2015.0,Kings XI Punjab,Royal Challengers Bangalore,DA Miller:M Vohra:GJ Maxwell:WP Saha:GJ Bailey:AR Patel:,HV Patel:MA Starc:YS Chahal:S Aravind:D Wiese:,72.0
+95,829803.0,2.0,Punjab Cricket Association IS Bindra Stadium,2015.0,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle:Mandeep Singh:AB de Villiers:V Kohli:,BE Hendricks:Anureet Singh:R Dhawan:Sandeep Sharma:,61.0
+96,829805.0,1.0,Wankhede Stadium,2015.0,Mumbai Indians,Kolkata Knight Riders,LMP Simmons:PA Patel:RG Sharma:AT Rayudu:,M Morkel:Shakib Al Hasan:UT Yadav:,46.0
+97,829805.0,2.0,Wankhede Stadium,2015.0,Kolkata Knight Riders,Mumbai Indians,RV Uthappa:MK Pandey:G Gambhir:YK Pathan:,MJ McClenaghan:Harbhajan Singh:R Vinay Kumar:SL Malinga:,50.0
+98,829807.0,1.0,Rajiv Gandhi International Stadium,2015.0,Sunrisers Hyderabad,Royal Challengers Bangalore,MC Henriques:S Dhawan:DA Warner:,HV Patel:MA Starc:YS Chahal:D Wiese:AB Dinda:,68.0
+99,829807.0,2.0,Rajiv Gandhi International Stadium,2015.0,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle:SN Khan:AB de Villiers:V Kohli:Mandeep Singh:KD Karthik:,DW Steyn:MC Henriques:KV Sharma:P Kumar:B Kumar:,83.0
+100,829809.0,1.0,Punjab Cricket Association IS Bindra Stadium,2015.0,Kings XI Punjab,Chennai Super Kings,M Vohra:Gurkeerat Singh:GJ Maxwell:WP Saha:GJ Bailey:,IC Pandey:P Negi:A Nehra:,41.0
+101,829809.0,2.0,Punjab Cricket Association IS Bindra Stadium,2015.0,Chennai Super Kings,Kings XI Punjab,MEK Hussey:SK Raina:BB McCullum:F du Plessis:,BE Hendricks:Gurkeerat Singh:R Dhawan:Sandeep Sharma:,47.0
+102,829811.0,1.0,Brabourne Stadium,2015.0,Rajasthan Royals,Kolkata Knight Riders,SR Watson:AM Rahane:,M Morkel:Shakib Al Hasan:UT Yadav:Azhar Mahmood:,66.0
+103,829811.0,2.0,Brabourne Stadium,2015.0,Kolkata Knight Riders,Rajasthan Royals,RV Uthappa:MK Pandey:G Gambhir:YK Pathan:,CH Morris:DS Kulkarni:BB Sran:,53.0
+104,829813.0,1.0,M Chinnaswamy Stadium,2015.0,Delhi Daredevils,Royal Challengers Bangalore,SS Iyer:Q de Kock:,D Wiese:HV Patel:AB Dinda:MA Starc:,54.0
+105,829813.0,2.0,M Chinnaswamy Stadium,2015.0,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle:V Kohli:,Z Khan:J Yadav:,2.0
+106,829815.0,1.0,Rajiv Gandhi International Stadium,2015.0,Sunrisers Hyderabad,Mumbai Indians,EJG Morgan:S Dhawan:DA Warner:MC Henriques:KL Rahul:,MJ McClenaghan:R Vinay Kumar:SL Malinga:,29.0
+107,829815.0,2.0,Rajiv Gandhi International Stadium,2015.0,Mumbai Indians,Sunrisers Hyderabad,LMP Simmons:PA Patel:,P Kumar:B Kumar:MC Henriques:DW Steyn:,38.0
+108,829817.0,1.0,Wankhede Stadium,2015.0,Mumbai Indians,Chennai Super Kings,LMP Simmons:PA Patel:,R Ashwin:A Nehra:,48.0
+109,829817.0,2.0,Wankhede Stadium,2015.0,Chennai Super Kings,Mumbai Indians,F du Plessis:DR Smith:MEK Hussey:SK Raina:,MJ McClenaghan:R Vinay Kumar:SL Malinga:,54.0
+110,829819.0,1.0,Maharashtra Cricket Association Stadium,2015.0,Royal Challengers Bangalore,Rajasthan Royals,CH Gayle:V Kohli:,CH Morris:DS Kulkarni:JP Faulkner:SR Watson:,41.0
+111,829819.0,2.0,Maharashtra Cricket Association Stadium,2015.0,Rajasthan Royals,Royal Challengers Bangalore,SV Samson:SPD Smith:SR Watson:AM Rahane:,S Aravind:HV Patel:MA Starc:,40.0
+112,829821.0,1.0,JSCA International Stadium Complex,2015.0,Royal Challengers Bangalore,Chennai Super Kings,CH Gayle:Mandeep Singh:AB de Villiers:V Kohli:,R Ashwin:A Nehra:,29.0
+113,829821.0,2.0,JSCA International Stadium Complex,2015.0,Chennai Super Kings,Royal Challengers Bangalore,MEK Hussey:DR Smith:F du Plessis:,S Aravind:HV Patel:MA Starc:,34.0
+114,829823.0,1.0,Eden Gardens,2015.0,Mumbai Indians,Chennai Super Kings,LMP Simmons:PA Patel:RG Sharma:,MM Sharma:RA Jadeja:R Ashwin:A Nehra:,61.0
+115,829823.0,2.0,Eden Gardens,2015.0,Chennai Super Kings,Mumbai Indians,MEK Hussey:DR Smith:SK Raina:,MJ McClenaghan:R Vinay Kumar:SL Malinga:,31.0
+116,980901.0,1.0,Wankhede Stadium,2016.0,Mumbai Indians,Rising Pune Supergiants,KA Pollard:JC Buttler:LMP Simmons:HH Pandya:RG Sharma:AT Rayudu:,MR Marsh:I Sharma:RP Singh:,37.0
+117,980901.0,2.0,Wankhede Stadium,2016.0,Rising Pune Supergiants,Mumbai Indians,F du Plessis:AM Rahane:,MJ McClenaghan:JJ Bumrah:,57.0
+118,980903.0,1.0,Eden Gardens,2016.0,Delhi Daredevils,Kolkata Knight Riders,SV Samson:P Negi:Q de Kock:MA Agarwal:SS Iyer:KK Nair:,JW Hastings:AD Russell:UT Yadav:,35.0
+119,980903.0,2.0,Eden Gardens,2016.0,Kolkata Knight Riders,Delhi Daredevils,RV Uthappa:G Gambhir:,NM Coulter-Nile:CH Morris:Z Khan:,47.0
+120,980905.0,1.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Kings XI Punjab,Gujarat Lions,M Vijay:M Vohra:,P Kumar:PJ Sangwan:JP Faulkner:S Ladda:,52.0
+121,980905.0,2.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Gujarat Lions,Kings XI Punjab,BB McCullum:SK Raina:KD Karthik:AJ Finch:,MG Johnson:MM Sharma:MP Stoinis:Sandeep Sharma:,57.0
+122,980907.0,1.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle:AB de Villiers:V Kohli:,Mustafizur Rahman:B Kumar:A Nehra:,49.0
+123,980907.0,2.0,M Chinnaswamy Stadium,2016.0,Sunrisers Hyderabad,Royal Challengers Bangalore,MC Henriques:S Dhawan:DA Warner:,Parvez Rasool:SR Watson:AF Milne:HV Patel:,56.0
+124,980909.0,1.0,Eden Gardens,2016.0,Kolkata Knight Riders,Mumbai Indians,RV Uthappa:MK Pandey:G Gambhir:,TG Southee:MJ McClenaghan:JJ Bumrah:,40.0
+125,980909.0,2.0,Eden Gardens,2016.0,Mumbai Indians,Kolkata Knight Riders,PA Patel:RG Sharma:HH Pandya:,JW Hastings:AD Russell:GB Hogg:,53.0
+126,980911.0,1.0,Saurashtra Cricket Association Stadium,2016.0,Rising Pune Supergiants,Gujarat Lions,F du Plessis:AM Rahane:KP Pietersen:,DJ Bravo:P Kumar:PV Tambe:SB Jakati:,57.0
+127,980911.0,2.0,Saurashtra Cricket Association Stadium,2016.0,Gujarat Lions,Rising Pune Supergiants,BB McCullum:AJ Finch:,I Sharma:RP Singh:M Ashwin:R Ashwin:,62.0
+128,980913.0,1.0,Arun Jaitley Stadium,2016.0,Kings XI Punjab,Delhi Daredevils,M Vijay:M Vohra:SE Marsh:,P Negi:CR Brathwaite:CH Morris:Z Khan:,37.0
+129,980913.0,2.0,Arun Jaitley Stadium,2016.0,Delhi Daredevils,Kings XI Punjab,SV Samson:SS Iyer:Q de Kock:,MG Johnson:MM Sharma:Sandeep Sharma:AR Patel:,28.0
+130,980915.0,1.0,Rajiv Gandhi International Stadium,2016.0,Sunrisers Hyderabad,Kolkata Knight Riders,MC Henriques:EJG Morgan:S Dhawan:DA Warner:,M Morkel:Shakib Al Hasan:UT Yadav:,36.0
+131,980915.0,2.0,Rajiv Gandhi International Stadium,2016.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:G Gambhir:,Mustafizur Rahman:B Kumar:BB Sran:,36.0
+132,980917.0,1.0,Wankhede Stadium,2016.0,Mumbai Indians,Gujarat Lions,JC Buttler:PA Patel:RG Sharma:HH Pandya:,P Kumar:DS Kulkarni:,31.0
+133,980917.0,2.0,Wankhede Stadium,2016.0,Gujarat Lions,Mumbai Indians,BB McCullum:SK Raina:AJ Finch:,TG Southee:MJ McClenaghan:KH Pandya:JJ Bumrah:,42.0
+134,980919.0,1.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Rising Pune Supergiants,Kings XI Punjab,F du Plessis:AM Rahane:KP Pietersen:,AR Patel:KJ Abbott:P Sahu:Sandeep Sharma:,49.0
+135,980919.0,2.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Kings XI Punjab,Rising Pune Supergiants,M Vijay:M Vohra:,I Sharma:R Ashwin:Ankit Sharma:,50.0
+136,980921.0,1.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle:V Kohli:AB de Villiers:,CH Morris:Z Khan:Mohammed Shami:,63.0
+137,980921.0,2.0,M Chinnaswamy Stadium,2016.0,Delhi Daredevils,Royal Challengers Bangalore,SV Samson:SS Iyer:KK Nair:Q de Kock:,S Aravind:Parvez Rasool:SR Watson:,51.0
+138,980923.0,1.0,Rajiv Gandhi International Stadium,2016.0,Mumbai Indians,Sunrisers Hyderabad,RG Sharma:PA Patel:MJ Guptill:AT Rayudu:,Mustafizur Rahman:B Kumar:MC Henriques:BB Sran:,40.0
+139,980923.0,2.0,Rajiv Gandhi International Stadium,2016.0,Sunrisers Hyderabad,Mumbai Indians,MC Henriques:S Dhawan:DA Warner:,TG Southee:MJ McClenaghan:Harbhajan Singh:JJ Bumrah:,33.0
+140,980925.0,1.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Kings XI Punjab,Kolkata Knight Riders,M Vijay:M Vohra:SE Marsh:,M Morkel:Shakib Al Hasan:UT Yadav:,41.0
+141,980925.0,2.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Kolkata Knight Riders,Kings XI Punjab,RV Uthappa:G Gambhir:,AR Patel:MM Sharma:KJ Abbott:Sandeep Sharma:,65.0
+142,980927.0,1.0,Wankhede Stadium,2016.0,Royal Challengers Bangalore,Mumbai Indians,KL Rahul:AB de Villiers:V Kohli:,TG Southee:MJ McClenaghan:JJ Bumrah:,49.0
+143,980927.0,2.0,Wankhede Stadium,2016.0,Mumbai Indians,Royal Challengers Bangalore,PA Patel:RG Sharma:AT Rayudu:,VR Aaron:KW Richardson:SR Watson:,51.0
+144,980929.0,1.0,Saurashtra Cricket Association Stadium,2016.0,Gujarat Lions,Sunrisers Hyderabad,BB McCullum:SK Raina:AJ Finch:,Mustafizur Rahman:DJ Hooda:B Kumar:BB Sran:,50.0
+145,980929.0,2.0,Saurashtra Cricket Association Stadium,2016.0,Sunrisers Hyderabad,Gujarat Lions,S Dhawan:DA Warner:,DJ Bravo:P Kumar:SK Raina:DW Steyn:,63.0
+146,980931.0,1.0,Maharashtra Cricket Association Stadium,2016.0,Royal Challengers Bangalore,Rising Pune Supergiants,KL Rahul:AB de Villiers:V Kohli:,NLTC Perera:I Sharma:Ankit Sharma:,48.0
+147,980931.0,2.0,Maharashtra Cricket Association Stadium,2016.0,Rising Pune Supergiants,Royal Challengers Bangalore,MS Dhoni:AM Rahane:F du Plessis:SPD Smith:KP Pietersen:,SR Watson:KW Richardson:HV Patel:STR Binny:,36.0
+148,980933.0,1.0,Arun Jaitley Stadium,2016.0,Delhi Daredevils,Mumbai Indians,SV Samson:SS Iyer:Q de Kock:,TG Southee:MJ McClenaghan:KH Pandya:JJ Bumrah:,41.0
+149,980933.0,2.0,Arun Jaitley Stadium,2016.0,Mumbai Indians,Delhi Daredevils,PA Patel:RG Sharma:AT Rayudu:,P Negi:CH Morris:Z Khan:Mohammed Shami:,52.0
+150,980935.0,1.0,Rajiv Gandhi International Stadium,2016.0,Kings XI Punjab,Sunrisers Hyderabad,DA Miller:M Vijay:M Vohra:SE Marsh:,DJ Hooda:B Kumar:Mustafizur Rahman:BB Sran:,35.0
+151,980935.0,2.0,Rajiv Gandhi International Stadium,2016.0,Sunrisers Hyderabad,Kings XI Punjab,S Dhawan:DA Warner:,MM Sharma:KJ Abbott:GJ Maxwell:Sandeep Sharma:,65.0
+152,980937.0,1.0,Saurashtra Cricket Association Stadium,2016.0,Royal Challengers Bangalore,Gujarat Lions,SR Watson:AB de Villiers:V Kohli:,P Kumar:DS Kulkarni:PV Tambe:SB Jakati:,50.0
+153,980937.0,2.0,Saurashtra Cricket Association Stadium,2016.0,Gujarat Lions,Royal Challengers Bangalore,BB McCullum:DR Smith:SK Raina:,YS Chahal:KW Richardson:Iqbal Abdulla:SR Watson:,72.0
+154,980939.0,1.0,Maharashtra Cricket Association Stadium,2016.0,Rising Pune Supergiants,Kolkata Knight Riders,F du Plessis:SPD Smith:AM Rahane:,M Morkel:AD Russell:Shakib Al Hasan:SP Narine:,31.0
+155,980939.0,2.0,Maharashtra Cricket Association Stadium,2016.0,Kolkata Knight Riders,Rising Pune Supergiants,G Gambhir:RV Uthappa:Shakib Al Hasan:SA Yadav:,NLTC Perera:R Ashwin:JA Morkel:,59.0
+156,980941.0,1.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Mumbai Indians,Kings XI Punjab,PA Patel:RG Sharma:AT Rayudu:,MG Johnson:Sandeep Sharma:AR Patel:,39.0
+157,980941.0,2.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Kings XI Punjab,Mumbai Indians,M Vijay:M Vohra:GJ Maxwell:SE Marsh:,TG Southee:MJ McClenaghan:JJ Bumrah:,40.0
+158,980943.0,1.0,Rajiv Gandhi International Stadium,2016.0,Sunrisers Hyderabad,Rising Pune Supergiants,EJG Morgan:S Dhawan:DA Warner:DJ Hooda:AP Tare:,MR Marsh:NLTC Perera:AB Dinda:,27.0
+159,980943.0,2.0,Rajiv Gandhi International Stadium,2016.0,Rising Pune Supergiants,Sunrisers Hyderabad,F du Plessis:SPD Smith:AM Rahane:,Mustafizur Rahman:B Kumar:A Nehra:,46.0
+160,980945.0,1.0,Arun Jaitley Stadium,2016.0,Gujarat Lions,Delhi Daredevils,BB McCullum:DR Smith:,CH Morris:Z Khan:S Nadeem:,71.0
+161,980945.0,2.0,Arun Jaitley Stadium,2016.0,Delhi Daredevils,Gujarat Lions,SV Samson:JP Duminy:Q de Kock:RR Pant:KK Nair:,P Kumar:DS Kulkarni:,22.0
+162,980947.0,1.0,Wankhede Stadium,2016.0,Kolkata Knight Riders,Mumbai Indians,RV Uthappa:G Gambhir:,TG Southee:MJ McClenaghan:Harbhajan Singh:JJ Bumrah:,59.0
+163,980947.0,2.0,Wankhede Stadium,2016.0,Mumbai Indians,Kolkata Knight Riders,PA Patel:RG Sharma:AT Rayudu:,SP Narine:Shakib Al Hasan:UT Yadav:JD Unadkat:,64.0
+164,980949.0,1.0,Maharashtra Cricket Association Stadium,2016.0,Rising Pune Supergiants,Gujarat Lions,SPD Smith:SS Tiwary:AM Rahane:,P Kumar:DS Kulkarni:,48.0
+165,980949.0,2.0,Maharashtra Cricket Association Stadium,2016.0,Gujarat Lions,Rising Pune Supergiants,BB McCullum:DR Smith:,NLTC Perera:R Ashwin:JA Morkel:AB Dinda:,72.0
+166,980951.0,1.0,Arun Jaitley Stadium,2016.0,Delhi Daredevils,Kolkata Knight Riders,SV Samson:Q de Kock:SW Billings:SS Iyer:KK Nair:,JO Holder:AD Russell:SP Narine:,37.0
+167,980951.0,2.0,Arun Jaitley Stadium,2016.0,Kolkata Knight Riders,Delhi Daredevils,RV Uthappa:PP Chawla:G Gambhir:YK Pathan:,Z Khan:Mohammed Shami:,43.0
+168,980953.0,1.0,Rajiv Gandhi International Stadium,2016.0,Sunrisers Hyderabad,Royal Challengers Bangalore,S Dhawan:DA Warner:KS Williamson:,HV Patel:VR Aaron:Parvez Rasool:KW Richardson:SR Watson:,49.0
+169,980953.0,2.0,Rajiv Gandhi International Stadium,2016.0,Royal Challengers Bangalore,Sunrisers Hyderabad,KL Rahul:AB de Villiers:V Kohli:,Mustafizur Rahman:B Kumar:A Nehra:,45.0
+170,980955.0,1.0,Saurashtra Cricket Association Stadium,2016.0,Kings XI Punjab,Gujarat Lions,M Vijay:MP Stoinis:,RA Jadeja:P Kumar:DS Kulkarni:,59.0
+171,980955.0,2.0,Saurashtra Cricket Association Stadium,2016.0,Gujarat Lions,Kings XI Punjab,BB McCullum:DR Smith:KD Karthik:SK Raina:,KC Cariappa:Sandeep Sharma:MM Sharma:MP Stoinis:AR Patel:,36.0
+172,980957.0,1.0,Maharashtra Cricket Association Stadium,2016.0,Rising Pune Supergiants,Mumbai Indians,SPD Smith:SS Tiwary:AM Rahane:,TG Southee:MJ McClenaghan:KH Pandya:JJ Bumrah:,54.0
+173,980957.0,2.0,Maharashtra Cricket Association Stadium,2016.0,Mumbai Indians,Rising Pune Supergiants,PA Patel:RG Sharma:AT Rayudu:,NLTC Perera:AB Dinda:SM Boland:,47.0
+174,980959.0,1.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle:V Kohli:KL Rahul:,M Morkel:AD Russell:SP Narine:,40.0
+175,980959.0,2.0,M Chinnaswamy Stadium,2016.0,Kolkata Knight Riders,Royal Challengers Bangalore,RV Uthappa:CA Lynn:MK Pandey:G Gambhir:,YS Chahal:VR Aaron:SR Watson:S Aravind:STR Binny:,37.0
+176,980961.0,1.0,Saurashtra Cricket Association Stadium,2016.0,Gujarat Lions,Delhi Daredevils,AJ Finch:SK Raina:BB McCullum:DR Smith:KD Karthik:,CH Morris:Z Khan:S Nadeem:Mohammed Shami:,35.0
+177,980961.0,2.0,Saurashtra Cricket Association Stadium,2016.0,Delhi Daredevils,Gujarat Lions,RR Pant:Q de Kock:,P Kumar:SK Raina:DS Kulkarni:,61.0
+178,980963.0,1.0,Eden Gardens,2016.0,Kolkata Knight Riders,Kings XI Punjab,RV Uthappa:G Gambhir:,AR Patel:MM Sharma:MP Stoinis:Sandeep Sharma:,40.0
+179,980963.0,2.0,Eden Gardens,2016.0,Kings XI Punjab,Kolkata Knight Riders,M Vohra:WP Saha:GJ Maxwell:MP Stoinis:M Vijay:,M Morkel:AD Russell:UT Yadav:,37.0
+180,980965.0,1.0,Arun Jaitley Stadium,2016.0,Delhi Daredevils,Rising Pune Supergiants,RR Pant:KK Nair:SV Samson:,NLTC Perera:AB Dinda:SM Boland:,48.0
+181,980965.0,2.0,Arun Jaitley Stadium,2016.0,Rising Pune Supergiants,Delhi Daredevils,UT Khawaja:AM Rahane:,CR Brathwaite:Mohammed Shami:J Yadav:,50.0
+182,980967.0,1.0,Rajiv Gandhi International Stadium,2016.0,Gujarat Lions,Sunrisers Hyderabad,AJ Finch:SK Raina:BB McCullum:DR Smith:KD Karthik:,Mustafizur Rahman:B Kumar:A Nehra:,26.0
+183,980967.0,2.0,Rajiv Gandhi International Stadium,2016.0,Sunrisers Hyderabad,Gujarat Lions,MC Henriques:S Dhawan:DA Warner:KS Williamson:,P Kumar:PJ Sangwan:DS Kulkarni:,38.0
+184,980969.0,1.0,M Chinnaswamy Stadium,2016.0,Rising Pune Supergiants,Royal Challengers Bangalore,UT Khawaja:SS Tiwary:AM Rahane:,Parvez Rasool:VR Aaron:SR Watson:STR Binny:CJ Jordan:,60.0
+185,980969.0,2.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Rising Pune Supergiants,KL Rahul:V Kohli:,NLTC Perera:RP Singh:AB Dinda:,46.0
+186,980971.0,1.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Kings XI Punjab,Delhi Daredevils,M Vijay:MP Stoinis:HM Amla:,CH Morris:Z Khan:S Nadeem:Mohammed Shami:,45.0
+187,980971.0,2.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Delhi Daredevils,Kings XI Punjab,SV Samson:Q de Kock:,KC Cariappa:Sandeep Sharma:MM Sharma:MP Stoinis:AR Patel:,51.0
+188,980973.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Sunrisers Hyderabad,Mumbai Indians,S Dhawan:DA Warner:,TG Southee:MJ McClenaghan:Harbhajan Singh:JJ Bumrah:,51.0
+189,980973.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Mumbai Indians,Sunrisers Hyderabad,KA Pollard:JC Buttler:HH Pandya:PA Patel:RG Sharma:KH Pandya:AT Rayudu:,B Kumar:A Nehra:BB Sran:,32.0
+190,980975.0,1.0,Eden Gardens,2016.0,Kolkata Knight Riders,Gujarat Lions,Shakib Al Hasan:G Gambhir:SA Yadav:RV Uthappa:YK Pathan:MK Pandey:,P Kumar:DR Smith:DS Kulkarni:,28.0
+191,980975.0,2.0,Eden Gardens,2016.0,Gujarat Lions,Kolkata Knight Riders,BB McCullum:DR Smith:SK Raina:,M Morkel:AD Russell:Shakib Al Hasan:PP Chawla:,46.0
+192,980977.0,1.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Royal Challengers Bangalore,Kings XI Punjab,KL Rahul:V Kohli:,Anureet Singh:Sandeep Sharma:MM Sharma:MP Stoinis:AR Patel:,56.0
+193,980977.0,2.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Kings XI Punjab,Royal Challengers Bangalore,M Vijay:WP Saha:HM Amla:,CJ Jordan:YS Chahal:SR Watson:STR Binny:,50.0
+194,980979.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Sunrisers Hyderabad,Rising Pune Supergiants,S Dhawan:DA Warner:KS Williamson:,RP Singh:AB Dinda:,34.0
+195,980979.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Rising Pune Supergiants,Sunrisers Hyderabad,UT Khawaja:R Ashwin:AM Rahane:GJ Bailey:,B Kumar:A Nehra:BB Sran:,25.0
+196,980981.0,1.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Mumbai Indians,CH Gayle:KL Rahul:AB de Villiers:V Kohli:,TG Southee:MJ McClenaghan:KH Pandya:JJ Bumrah:,25.0
+197,980981.0,2.0,M Chinnaswamy Stadium,2016.0,Mumbai Indians,Royal Challengers Bangalore,PA Patel:RG Sharma:AT Rayudu:,S Aravind:CJ Jordan:SR Watson:STR Binny:,39.0
+198,980983.0,1.0,Rajiv Gandhi International Stadium,2016.0,Sunrisers Hyderabad,Delhi Daredevils,S Dhawan:DA Warner:,NM Coulter-Nile:Mohammed Shami:J Yadav:,51.0
+199,980983.0,2.0,Rajiv Gandhi International Stadium,2016.0,Delhi Daredevils,Sunrisers Hyderabad,KK Nair:MA Agarwal:Q de Kock:,Mustafizur Rahman:B Kumar:A Nehra:BB Sran:,50.0
+200,980985.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Mumbai Indians,Kings XI Punjab,AT Rayudu:RG Sharma:N Rana:UBT Chand:,AR Patel:MM Sharma:Sandeep Sharma:,21.0
+201,980985.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Kings XI Punjab,Mumbai Indians,M Vijay:WP Saha:HM Amla:,TG Southee:MJ McClenaghan:KH Pandya:JJ Bumrah:,32.0
+202,980987.0,1.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Gujarat Lions,CH Gayle:AB de Villiers:V Kohli:,P Kumar:S Kaushik:DS Kulkarni:PV Tambe:,42.0
+203,980987.0,2.0,M Chinnaswamy Stadium,2016.0,Gujarat Lions,Royal Challengers Bangalore,BB McCullum:DR Smith:KD Karthik:RA Jadeja:,S Aravind:YS Chahal:SR Watson:STR Binny:,41.0
+204,980989.0,1.0,Eden Gardens,2016.0,Rising Pune Supergiants,Kolkata Knight Riders,UT Khawaja:SS Tiwary:AM Rahane:GJ Bailey:,M Morkel:AD Russell:Shakib Al Hasan:,37.0
+205,980989.0,2.0,Eden Gardens,2016.0,Kolkata Knight Riders,Rising Pune Supergiants,RV Uthappa:MK Pandey:G Gambhir:YK Pathan:,R Ashwin:A Zampa:M Ashwin:AB Dinda:,66.0
+206,980991.0,1.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Kings XI Punjab,Sunrisers Hyderabad,M Vijay:WP Saha:HM Amla:,Mustafizur Rahman:BCJ Cutting:B Kumar:A Nehra:,47.0
+207,980991.0,2.0,Punjab Cricket Association IS Bindra Stadium,2016.0,Sunrisers Hyderabad,Kings XI Punjab,S Dhawan:DA Warner:,Anureet Singh:Sandeep Sharma:MM Sharma:MP Stoinis:GJ Maxwell:M Vijay:,55.0
+208,980993.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Mumbai Indians,Delhi Daredevils,MJ Guptill:RG Sharma:,CH Morris:Z Khan:S Nadeem:,45.0
+209,980993.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Delhi Daredevils,Mumbai Indians,SV Samson:KK Nair:MA Agarwal:Q de Kock:,JJ Bumrah:MJ McClenaghan:Harbhajan Singh:R Vinay Kumar:,49.0
+210,980995.0,1.0,Eden Gardens,2016.0,Kolkata Knight Riders,Royal Challengers Bangalore,RV Uthappa:MK Pandey:G Gambhir:,S Aravind:SR Watson:Iqbal Abdulla:STR Binny:,51.0
+211,980995.0,2.0,Eden Gardens,2016.0,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle:V Kohli:,M Morkel:AD Russell:SP Narine:PP Chawla:,63.0
+212,980997.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Delhi Daredevils,Rising Pune Supergiants,SV Samson:SS Iyer:KK Nair:Q de Kock:,DL Chahar:NLTC Perera:AB Dinda:,28.0
+213,980997.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Rising Pune Supergiants,Delhi Daredevils,UT Khawaja:AM Rahane:GJ Bailey:,NM Coulter-Nile:CH Morris:Z Khan:,44.0
+214,980999.0,1.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle:V Kohli:,KC Cariappa:Sandeep Sharma:MM Sharma:KJ Abbott:AR Patel:,63.0
+215,980999.0,2.0,M Chinnaswamy Stadium,2016.0,Kings XI Punjab,Royal Challengers Bangalore,DA Miller:Gurkeerat Singh:WP Saha:HM Amla:M Vijay:AR Patel:,YS Chahal:SR Watson:S Aravind:STR Binny:CJ Jordan:,59.0
+216,981001.0,1.0,Green Park,2016.0,Kolkata Knight Riders,Gujarat Lions,RV Uthappa:MK Pandey:G Gambhir:PP Chawla:,P Kumar:DR Smith:DS Kulkarni:,44.0
+217,981001.0,2.0,Green Park,2016.0,Gujarat Lions,Kolkata Knight Riders,AJ Finch:SK Raina:BB McCullum:DR Smith:KD Karthik:,M Morkel:SP Narine:AS Rajpoot:,55.0
+218,981003.0,1.0,Shaheed Veer Narayan Singh International Stadium,2016.0,Sunrisers Hyderabad,Delhi Daredevils,S Dhawan:DA Warner:,NM Coulter-Nile:CR Brathwaite:Z Khan:J Yadav:,46.0
+219,981003.0,2.0,Shaheed Veer Narayan Singh International Stadium,2016.0,Delhi Daredevils,Sunrisers Hyderabad,RR Pant:KK Nair:Q de Kock:,Mustafizur Rahman:B Kumar:BB Sran:,37.0
+220,981005.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Kings XI Punjab,Rising Pune Supergiants,M Vijay:HM Amla:,DL Chahar:IK Pathan:NLTC Perera:AB Dinda:,52.0
+221,981005.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2016.0,Rising Pune Supergiants,Kings XI Punjab,UT Khawaja:AM Rahane:GJ Bailey:,MM Sharma:KJ Abbott:Sandeep Sharma:,44.0
+222,981007.0,1.0,Green Park,2016.0,Mumbai Indians,Gujarat Lions,JC Buttler:MJ Guptill:RG Sharma:N Rana:KH Pandya:,P Kumar:DR Smith:DS Kulkarni:,49.0
+223,981007.0,2.0,Green Park,2016.0,Gujarat Lions,Mumbai Indians,BB McCullum:SK Raina:AJ Finch:,KH Pandya:JJ Bumrah:MJ McClenaghan:R Vinay Kumar:,70.0
+224,981009.0,1.0,Eden Gardens,2016.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:C Munro:G Gambhir:,KS Williamson:DJ Hooda:B Kumar:BB Sran:,48.0
+225,981009.0,2.0,Eden Gardens,2016.0,Sunrisers Hyderabad,Kolkata Knight Riders,NV Ojha:S Dhawan:DA Warner:,Shakib Al Hasan:SP Narine:AS Rajpoot:YK Pathan:,48.0
+226,981011.0,1.0,Shaheed Veer Narayan Singh International Stadium,2016.0,Delhi Daredevils,Royal Challengers Bangalore,RR Pant:KK Nair:SV Samson:Q de Kock:,YS Chahal:SR Watson:S Aravind:STR Binny:CJ Jordan:,43.0
+227,981011.0,2.0,Shaheed Veer Narayan Singh International Stadium,2016.0,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle:KL Rahul:AB de Villiers:V Kohli:,CH Morris:Z Khan:,49.0
+228,981013.0,1.0,M Chinnaswamy Stadium,2016.0,Gujarat Lions,Royal Challengers Bangalore,SK Raina:AJ Finch:BB McCullum:DR Smith:KD Karthik:,S Aravind:Iqbal Abdulla:SR Watson:,23.0
+229,981013.0,2.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Gujarat Lions,CH Gayle:Sachin Baby:SR Watson:AB de Villiers:V Kohli:STR Binny:KL Rahul:,RA Jadeja:P Kumar:DS Kulkarni:,31.0
+230,981015.0,1.0,Arun Jaitley Stadium,2016.0,Sunrisers Hyderabad,Kolkata Knight Riders,MC Henriques:S Dhawan:DA Warner:,M Morkel:SP Narine:YK Pathan:,43.0
+231,981015.0,2.0,Arun Jaitley Stadium,2016.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:C Munro:G Gambhir:,DJ Hooda:B Kumar:Mustafizur Rahman:BB Sran:,46.0
+232,981017.0,1.0,Arun Jaitley Stadium,2016.0,Gujarat Lions,Sunrisers Hyderabad,BB McCullum:KD Karthik:SK Raina:ER Dwivedi:,TA Boult:B Kumar:Bipul Sharma:BB Sran:,38.0
+233,981017.0,2.0,Arun Jaitley Stadium,2016.0,Sunrisers Hyderabad,Gujarat Lions,MC Henriques:S Dhawan:DA Warner:Yuvraj Singh:,P Kumar:DR Smith:DS Kulkarni:SK Raina:,46.0
+234,981019.0,1.0,M Chinnaswamy Stadium,2016.0,Sunrisers Hyderabad,Royal Challengers Bangalore,S Dhawan:DA Warner:,S Aravind:CH Gayle:SR Watson:,59.0
+235,981019.0,2.0,M Chinnaswamy Stadium,2016.0,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle:V Kohli:,Mustafizur Rahman:BCJ Cutting:B Kumar:BB Sran:,59.0
+236,1082591.0,1.0,Rajiv Gandhi International Stadium,2017.0,Sunrisers Hyderabad,Royal Challengers Bangalore,MC Henriques:S Dhawan:DA Warner:,YS Chahal:SR Watson:A Choudhary:S Aravind:TS Mills:,59.0
+237,1082591.0,2.0,Rajiv Gandhi International Stadium,2017.0,Royal Challengers Bangalore,Sunrisers Hyderabad,CH Gayle:TM Head:Mandeep Singh:,Rashid Khan:BCJ Cutting:B Kumar:A Nehra:,54.0
+238,1082592.0,1.0,Maharashtra Cricket Association Stadium,2017.0,Mumbai Indians,Rising Pune Supergiant,PA Patel:RG Sharma:JC Buttler:,DL Chahar:BA Stokes:Imran Tahir:AB Dinda:,61.0
+239,1082592.0,2.0,Maharashtra Cricket Association Stadium,2017.0,Rising Pune Supergiant,Mumbai Indians,SPD Smith:MA Agarwal:AM Rahane:,TG Southee:MJ McClenaghan:JJ Bumrah:HH Pandya:,59.0
+240,1082593.0,1.0,Saurashtra Cricket Association Stadium,2017.0,Gujarat Lions,Kolkata Knight Riders,BB McCullum:JJ Roy:SK Raina:,TA Boult:CR Woakes:SP Narine:PP Chawla:,52.0
+241,1082593.0,2.0,Saurashtra Cricket Association Stadium,2017.0,Kolkata Knight Riders,Gujarat Lions,G Gambhir:CA Lynn:,MS Gony:P Kumar:S Kaushik:DS Kulkarni:,73.0
+242,1082595.0,1.0,M Chinnaswamy Stadium,2017.0,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle:Mandeep Singh:KM Jadhav:SR Watson:,PJ Cummins:CH Morris:Z Khan:S Nadeem:,41.0
+243,1082595.0,2.0,M Chinnaswamy Stadium,2017.0,Delhi Daredevils,Royal Challengers Bangalore,SV Samson:SW Billings:KK Nair:AP Tare:,B Stanlake:YS Chahal:TS Mills:Iqbal Abdulla:,43.0
+244,1082594.0,1.0,Holkar Cricket Stadium,2017.0,Rising Pune Supergiant,Kings XI Punjab,SPD Smith:MA Agarwal:AM Rahane:,AR Patel:MM Sharma:Sandeep Sharma:,35.0
+245,1082594.0,2.0,Holkar Cricket Stadium,2017.0,Kings XI Punjab,Rising Pune Supergiant,M Vohra:WP Saha:AR Patel:HM Amla:,BA Stokes:Imran Tahir:DT Christian:AB Dinda:,56.0
+246,1082596.0,1.0,Rajiv Gandhi International Stadium,2017.0,Gujarat Lions,Sunrisers Hyderabad,BB McCullum:AJ Finch:JJ Roy:SK Raina:,Rashid Khan:B Kumar:Bipul Sharma:A Nehra:,40.0
+247,1082596.0,2.0,Rajiv Gandhi International Stadium,2017.0,Sunrisers Hyderabad,Gujarat Lions,MC Henriques:S Dhawan:DA Warner:,P Kumar:DS Kulkarni:SK Raina:Tejas Baroka:,59.0
+248,1082597.0,1.0,Wankhede Stadium,2017.0,Kolkata Knight Riders,Mumbai Indians,G Gambhir:CA Lynn:RV Uthappa:MK Pandey:,KH Pandya:MJ McClenaghan:JJ Bumrah:SL Malinga:,59.0
+249,1082597.0,2.0,Wankhede Stadium,2017.0,Mumbai Indians,Kolkata Knight Riders,PA Patel:JC Buttler:,TA Boult:CR Woakes:SP Narine:Kuldeep Yadav:,49.0
+250,1082598.0,1.0,Holkar Cricket Stadium,2017.0,Royal Challengers Bangalore,Kings XI Punjab,KM Jadhav:AB de Villiers:SR Watson:Mandeep Singh:Vishnu Vinod:,VR Aaron:MM Sharma:Sandeep Sharma:AR Patel:,23.0
+251,1082598.0,2.0,Holkar Cricket Stadium,2017.0,Kings XI Punjab,Royal Challengers Bangalore,M Vohra:HM Amla:,B Stanlake:TS Mills:Iqbal Abdulla:SR Watson:,62.0
+252,1082599.0,1.0,Maharashtra Cricket Association Stadium,2017.0,Delhi Daredevils,Rising Pune Supergiant,SW Billings:SV Samson:AP Tare:,DL Chahar:BA Stokes:AB Dinda:,62.0
+253,1082599.0,2.0,Maharashtra Cricket Association Stadium,2017.0,Rising Pune Supergiant,Delhi Daredevils,AM Rahane:RA Tripathi:BA Stokes:F du Plessis:MA Agarwal:,PJ Cummins:CH Morris:Z Khan:S Nadeem:,50.0
+254,1082600.0,1.0,Wankhede Stadium,2017.0,Sunrisers Hyderabad,Mumbai Indians,S Dhawan:DA Warner:,Harbhajan Singh:JJ Bumrah:SL Malinga:,34.0
+255,1082600.0,2.0,Wankhede Stadium,2017.0,Mumbai Indians,Sunrisers Hyderabad,PA Patel:RG Sharma:N Rana:JC Buttler:,Rashid Khan:B Kumar:A Nehra:Mustafizur Rahman:,61.0
+256,1082601.0,1.0,Eden Gardens,2017.0,Kings XI Punjab,Kolkata Knight Riders,M Vohra:MP Stoinis:HM Amla:,CR Woakes:PP Chawla:TA Boult:SP Narine:UT Yadav:,57.0
+257,1082601.0,2.0,Eden Gardens,2017.0,Kolkata Knight Riders,Kings XI Punjab,RV Uthappa:G Gambhir:SP Narine:,VR Aaron:I Sharma:GJ Maxwell:Sandeep Sharma:,76.0
+258,1082602.0,1.0,M Chinnaswamy Stadium,2017.0,Royal Challengers Bangalore,Mumbai Indians,CH Gayle:V Kohli:,TG Southee:MJ McClenaghan:Harbhajan Singh:,41.0
+259,1082602.0,2.0,M Chinnaswamy Stadium,2017.0,Mumbai Indians,Royal Challengers Bangalore,JC Buttler:PA Patel:RG Sharma:N Rana:MJ McClenaghan:KA Pollard:,S Aravind:S Badree:TS Mills:STR Binny:,21.0
+260,1082603.0,1.0,Saurashtra Cricket Association Stadium,2017.0,Rising Pune Supergiant,Gujarat Lions,RA Tripathi:BA Stokes:SPD Smith:AM Rahane:,AJ Tye:P Kumar:Basil Thampi:SB Jakati:,64.0
+261,1082603.0,2.0,Saurashtra Cricket Association Stadium,2017.0,Gujarat Lions,Rising Pune Supergiant,BB McCullum:DR Smith:,Ankit Sharma:BA Stokes:SN Thakur:Imran Tahir:LH Ferguson:,61.0
+262,1082604.0,1.0,Eden Gardens,2017.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:G Gambhir:MK Pandey:SP Narine:,Rashid Khan:BCJ Cutting:B Kumar:A Nehra:,40.0
+263,1082604.0,2.0,Eden Gardens,2017.0,Sunrisers Hyderabad,Kolkata Knight Riders,S Dhawan:DA Warner:,SP Narine:TA Boult:UT Yadav:Kuldeep Yadav:,45.0
+264,1082605.0,1.0,Arun Jaitley Stadium,2017.0,Delhi Daredevils,Kings XI Punjab,SV Samson:SW Billings:,AR Patel:MM Sharma:VR Aaron:Sandeep Sharma:,49.0
+265,1082605.0,2.0,Arun Jaitley Stadium,2017.0,Kings XI Punjab,Delhi Daredevils,DA Miller:EJG Morgan:M Vohra:WP Saha:HM Amla:,PJ Cummins:CH Morris:Z Khan:S Nadeem:,40.0
+266,1082606.0,1.0,Wankhede Stadium,2017.0,Gujarat Lions,Mumbai Indians,BB McCullum:DR Smith:SK Raina:,MJ McClenaghan:Harbhajan Singh:JJ Bumrah:SL Malinga:,46.0
+267,1082606.0,2.0,Wankhede Stadium,2017.0,Mumbai Indians,Gujarat Lions,PA Patel:N Rana:JC Buttler:,AJ Tye:P Kumar:Basil Thampi:MM Patel:,56.0
+268,1082607.0,1.0,M Chinnaswamy Stadium,2017.0,Rising Pune Supergiant,Royal Challengers Bangalore,RA Tripathi:AM Rahane:,S Aravind:S Badree:SR Watson:AF Milne:,55.0
+269,1082607.0,2.0,M Chinnaswamy Stadium,2017.0,Royal Challengers Bangalore,Rising Pune Supergiant,Mandeep Singh:KM Jadhav:AB de Villiers:V Kohli:,SN Thakur:DT Christian:BA Stokes:JD Unadkat:,42.0
+270,1082608.0,1.0,Arun Jaitley Stadium,2017.0,Delhi Daredevils,Kolkata Knight Riders,SV Samson:SW Billings:,NM Coulter-Nile:Kuldeep Yadav:CR Woakes:SP Narine:UT Yadav:,53.0
+271,1082608.0,2.0,Arun Jaitley Stadium,2017.0,Kolkata Knight Riders,Delhi Daredevils,C de Grandhomme:G Gambhir:RV Uthappa:YK Pathan:MK Pandey:,PJ Cummins:CH Morris:Z Khan:,49.0
+272,1082609.0,1.0,Rajiv Gandhi International Stadium,2017.0,Sunrisers Hyderabad,Kings XI Punjab,MC Henriques:S Dhawan:DA Warner:,I Sharma:MM Sharma:Sandeep Sharma:,29.0
+273,1082609.0,2.0,Rajiv Gandhi International Stadium,2017.0,Kings XI Punjab,Sunrisers Hyderabad,EJG Morgan:M Vohra:GJ Maxwell:HM Amla:,Mohammad Nabi:Rashid Khan:S Kaul:B Kumar:BB Sran:,51.0
+274,1082610.0,1.0,Saurashtra Cricket Association Stadium,2017.0,Royal Challengers Bangalore,Gujarat Lions,CH Gayle:V Kohli:,AJ Tye:Basil Thampi:RA Jadeja:DS Kulkarni:,45.0
+275,1082610.0,2.0,Saurashtra Cricket Association Stadium,2017.0,Gujarat Lions,Royal Challengers Bangalore,BB McCullum:AJ Finch:DR Smith:SK Raina:,S Aravind:YS Chahal:P Negi:,57.0
+276,1082611.0,1.0,Rajiv Gandhi International Stadium,2017.0,Sunrisers Hyderabad,Delhi Daredevils,S Dhawan:DA Warner:KS Williamson:,PJ Cummins:CH Morris:Z Khan:J Yadav:,39.0
+277,1082611.0,2.0,Rajiv Gandhi International Stadium,2017.0,Delhi Daredevils,Sunrisers Hyderabad,SV Samson:SW Billings:KK Nair:,Rashid Khan:Mohammed Siraj:B Kumar:S Kaul:,56.0
+278,1082612.0,1.0,Holkar Cricket Stadium,2017.0,Kings XI Punjab,Mumbai Indians,WP Saha:SE Marsh:HM Amla:,SL Malinga:MJ McClenaghan:Harbhajan Singh:HH Pandya:,46.0
+279,1082612.0,2.0,Holkar Cricket Stadium,2017.0,Mumbai Indians,Kings XI Punjab,PA Patel:N Rana:JC Buttler:,I Sharma:MP Stoinis:MM Sharma:Sandeep Sharma:,82.0
+280,1082613.0,1.0,Eden Gardens,2017.0,Kolkata Knight Riders,Gujarat Lions,RV Uthappa:G Gambhir:SP Narine:,Basil Thampi:SK Raina:JP Faulkner:P Kumar:DS Kulkarni:,65.0
+281,1082613.0,2.0,Eden Gardens,2017.0,Gujarat Lions,Kolkata Knight Riders,BB McCullum:SK Raina:AJ Finch:,NM Coulter-Nile:Shakib Al Hasan:SP Narine:,72.0
+282,1082614.0,1.0,Wankhede Stadium,2017.0,Mumbai Indians,Delhi Daredevils,PA Patel:RG Sharma:N Rana:JC Buttler:,K Rabada:CH Morris:Z Khan:,48.0
+283,1082614.0,2.0,Wankhede Stadium,2017.0,Delhi Daredevils,Mumbai Indians,SV Samson:RR Pant:K Rabada:AP Tare:SS Iyer:KK Nair:CJ Anderson:,MG Johnson:MJ McClenaghan:JJ Bumrah:,23.0
+284,1082615.0,1.0,Maharashtra Cricket Association Stadium,2017.0,Sunrisers Hyderabad,Rising Pune Supergiant,S Dhawan:DA Warner:,BA Stokes:Washington Sundar:SN Thakur:JD Unadkat:,45.0
+285,1082615.0,2.0,Maharashtra Cricket Association Stadium,2017.0,Rising Pune Supergiant,Sunrisers Hyderabad,RA Tripathi:SPD Smith:AM Rahane:,Mohammed Siraj:S Kaul:B Kumar:Bipul Sharma:,55.0
+286,1082616.0,1.0,Saurashtra Cricket Association Stadium,2017.0,Kings XI Punjab,Gujarat Lions,M Vohra:SE Marsh:HM Amla:,Basil Thampi:NB Singh:SK Raina:SS Agarwal:AJ Tye:,50.0
+287,1082616.0,2.0,Saurashtra Cricket Association Stadium,2017.0,Gujarat Lions,Kings XI Punjab,BB McCullum:SK Raina:KD Karthik:AJ Finch:,T Natarajan:MM Sharma:KC Cariappa:Sandeep Sharma:,50.0
+288,1082617.0,1.0,Eden Gardens,2017.0,Kolkata Knight Riders,Royal Challengers Bangalore,RV Uthappa:G Gambhir:MK Pandey:SP Narine:,S Aravind:S Badree:TS Mills:STR Binny:,65.0
+289,1082617.0,2.0,Eden Gardens,2017.0,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle:KM Jadhav:AB de Villiers:V Kohli:Mandeep Singh:STR Binny:,NM Coulter-Nile:UT Yadav:,39.0
+290,1082618.0,1.0,Wankhede Stadium,2017.0,Rising Pune Supergiant,Mumbai Indians,RA Tripathi:AM Rahane:,MG Johnson:MJ McClenaghan:JJ Bumrah:KV Sharma:,48.0
+291,1082618.0,2.0,Wankhede Stadium,2017.0,Mumbai Indians,Rising Pune Supergiant,PA Patel:N Rana:JC Buttler:,SN Thakur:Washington Sundar:BA Stokes:JD Unadkat:,44.0
+292,1082620.0,1.0,Maharashtra Cricket Association Stadium,2017.0,Rising Pune Supergiant,Kolkata Knight Riders,RA Tripathi:AM Rahane:,SP Narine:CR Woakes:UT Yadav:,57.0
+293,1082620.0,2.0,Maharashtra Cricket Association Stadium,2017.0,Kolkata Knight Riders,Rising Pune Supergiant,RV Uthappa:G Gambhir:SP Narine:,SN Thakur:Washington Sundar:DT Christian:JD Unadkat:,45.0
+294,1082621.0,1.0,M Chinnaswamy Stadium,2017.0,Royal Challengers Bangalore,Gujarat Lions,CH Gayle:KM Jadhav:TM Head:AB de Villiers:V Kohli:,AJ Tye:Basil Thampi:NB Singh:,35.0
+295,1082621.0,2.0,M Chinnaswamy Stadium,2017.0,Gujarat Lions,Royal Challengers Bangalore,BB McCullum:AJ Finch:Ishan Kishan:SK Raina:,S Aravind:S Badree:,49.0
+296,1082622.0,1.0,Eden Gardens,2017.0,Delhi Daredevils,Kolkata Knight Riders,SV Samson:KK Nair:SS Iyer:,NM Coulter-Nile:Kuldeep Yadav:CR Woakes:SP Narine:UT Yadav:,53.0
+297,1082622.0,2.0,Eden Gardens,2017.0,Kolkata Knight Riders,Delhi Daredevils,RV Uthappa:G Gambhir:SP Narine:,CH Morris:Z Khan:K Rabada:PJ Cummins:CJ Anderson:,47.0
+298,1082623.0,1.0,Punjab Cricket Association IS Bindra Stadium,2017.0,Sunrisers Hyderabad,Kings XI Punjab,S Dhawan:DA Warner:,AR Patel:I Sharma:MM Sharma:Anureet Singh:,60.0
+299,1082623.0,2.0,Punjab Cricket Association IS Bindra Stadium,2017.0,Kings XI Punjab,Sunrisers Hyderabad,EJG Morgan:M Vohra:MJ Guptill:GJ Maxwell:SE Marsh:,DJ Hooda:B Kumar:S Kaul:A Nehra:,59.0
+300,1082624.0,1.0,Maharashtra Cricket Association Stadium,2017.0,Rising Pune Supergiant,Royal Challengers Bangalore,RA Tripathi:SPD Smith:AM Rahane:,S Aravind:S Badree:YS Chahal:AF Milne:,43.0
+301,1082624.0,2.0,Maharashtra Cricket Association Stadium,2017.0,Royal Challengers Bangalore,Rising Pune Supergiant,TM Head:KM Jadhav:AB de Villiers:V Kohli:,DL Chahar:DT Christian:LH Ferguson:JD Unadkat:,39.0
+302,1082625.0,1.0,Saurashtra Cricket Association Stadium,2017.0,Gujarat Lions,Mumbai Indians,AJ Finch:SK Raina:BB McCullum:Ishan Kishan:KD Karthik:,MJ McClenaghan:Harbhajan Singh:JJ Bumrah:SL Malinga:,48.0
+303,1082625.0,2.0,Saurashtra Cricket Association Stadium,2017.0,Mumbai Indians,Gujarat Lions,PA Patel:N Rana:JC Buttler:,Ankit Soni:Basil Thampi:SK Raina:AJ Tye:IK Pathan:JP Faulkner:,61.0
+304,1082626.0,1.0,Punjab Cricket Association IS Bindra Stadium,2017.0,Delhi Daredevils,Kings XI Punjab,SV Samson:RR Pant:SW Billings:SS Iyer:KK Nair:,T Natarajan:MM Sharma:Sandeep Sharma:,25.0
+305,1082626.0,2.0,Punjab Cricket Association IS Bindra Stadium,2017.0,Kings XI Punjab,Delhi Daredevils,MJ Guptill:HM Amla:,K Rabada:CH Morris:Mohammed Shami:,50.0
+306,1082627.0,1.0,Rajiv Gandhi International Stadium,2017.0,Sunrisers Hyderabad,Kolkata Knight Riders,S Dhawan:DA Warner:,NM Coulter-Nile:Kuldeep Yadav:CR Woakes:SP Narine:UT Yadav:YK Pathan:,79.0
+307,1082627.0,2.0,Rajiv Gandhi International Stadium,2017.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:G Gambhir:MK Pandey:SP Narine:,MC Henriques:Mohammed Siraj:B Kumar:S Kaul:,44.0
+308,1082628.0,1.0,Wankhede Stadium,2017.0,Royal Challengers Bangalore,Mumbai Indians,TM Head:Mandeep Singh:AB de Villiers:V Kohli:,JJ Bumrah:SL Malinga:HH Pandya:KV Sharma:MJ McClenaghan:,52.0
+309,1082628.0,2.0,Wankhede Stadium,2017.0,Mumbai Indians,Royal Challengers Bangalore,PA Patel:N Rana:JC Buttler:,S Aravind:YS Chahal:AF Milne:A Choudhary:,55.0
+310,1082629.0,1.0,Maharashtra Cricket Association Stadium,2017.0,Gujarat Lions,Rising Pune Supergiant,BB McCullum:Ishan Kishan:,BA Stokes:Imran Tahir:Washington Sundar:JD Unadkat:,55.0
+311,1082629.0,2.0,Maharashtra Cricket Association Stadium,2017.0,Rising Pune Supergiant,Gujarat Lions,MS Dhoni:AM Rahane:RA Tripathi:BA Stokes:SPD Smith:MK Tiwary:,Basil Thampi:PJ Sangwan:JP Faulkner:,43.0
+312,1082630.0,1.0,Arun Jaitley Stadium,2017.0,Sunrisers Hyderabad,Delhi Daredevils,S Dhawan:DA Warner:KS Williamson:,K Rabada:CH Morris:Mohammed Shami:J Yadav:,66.0
+313,1082630.0,2.0,Arun Jaitley Stadium,2017.0,Delhi Daredevils,Sunrisers Hyderabad,SV Samson:RR Pant:KK Nair:,MC Henriques:Mohammed Siraj:B Kumar:S Kaul:,62.0
+314,1082631.0,1.0,Eden Gardens,2017.0,Kolkata Knight Riders,Rising Pune Supergiant,G Gambhir:SP Narine:YK Pathan:SP Jackson:MK Pandey:,BA Stokes:Washington Sundar:JD Unadkat:,41.0
+315,1082631.0,2.0,Eden Gardens,2017.0,Rising Pune Supergiant,Kolkata Knight Riders,RA Tripathi:SPD Smith:MK Tiwary:AM Rahane:,NM Coulter-Nile:CR Woakes:UT Yadav:,74.0
+316,1082632.0,1.0,Arun Jaitley Stadium,2017.0,Gujarat Lions,Delhi Daredevils,BB McCullum:DR Smith:KD Karthik:SK Raina:,PJ Cummins:K Rabada:S Nadeem:Mohammed Shami:,58.0
+317,1082632.0,2.0,Arun Jaitley Stadium,2017.0,Delhi Daredevils,Gujarat Lions,SV Samson:RR Pant:KK Nair:,Basil Thampi:PJ Sangwan:JP Faulkner:,63.0
+318,1082633.0,1.0,M Chinnaswamy Stadium,2017.0,Kings XI Punjab,Royal Challengers Bangalore,M Vohra:MJ Guptill:SE Marsh:HM Amla:,S Aravind:S Badree:SR Watson:A Choudhary:,35.0
+319,1082633.0,2.0,M Chinnaswamy Stadium,2017.0,Royal Challengers Bangalore,Kings XI Punjab,CH Gayle:KM Jadhav:V Kohli:AB de Villiers:Mandeep Singh:,T Natarajan:VR Aaron:Sandeep Sharma:,46.0
+320,1082634.0,1.0,Rajiv Gandhi International Stadium,2017.0,Rising Pune Supergiant,Sunrisers Hyderabad,RA Tripathi:SPD Smith:AM Rahane:,Rashid Khan:A Nehra:MC Henriques:S Kaul:B Kumar:,35.0
+321,1082634.0,2.0,Rajiv Gandhi International Stadium,2017.0,Sunrisers Hyderabad,Rising Pune Supergiant,S Dhawan:DA Warner:Yuvraj Singh:KS Williamson:,BA Stokes:Washington Sundar:JD Unadkat:,47.0
+322,1082635.0,1.0,Arun Jaitley Stadium,2017.0,Mumbai Indians,Delhi Daredevils,LMP Simmons:PA Patel:,PJ Cummins:K Rabada:Z Khan:,60.0
+323,1082635.0,2.0,Arun Jaitley Stadium,2017.0,Delhi Daredevils,Mumbai Indians,SV Samson:MN Samuels:RR Pant:SS Iyer:PJ Cummins:KK Nair:CJ Anderson:,MJ McClenaghan:Harbhajan Singh:JJ Bumrah:SL Malinga:,35.0
+324,1082636.0,1.0,M Chinnaswamy Stadium,2017.0,Royal Challengers Bangalore,Kolkata Knight Riders,CH Gayle:TM Head:AB de Villiers:V Kohli:Mandeep Singh:,SP Narine:CR Woakes:UT Yadav:,40.0
+325,1082636.0,2.0,M Chinnaswamy Stadium,2017.0,Kolkata Knight Riders,Royal Challengers Bangalore,CA Lynn:SP Narine:,S Aravind:S Badree:YS Chahal:A Choudhary:,105.0
+326,1082637.0,1.0,Punjab Cricket Association IS Bindra Stadium,2017.0,Kings XI Punjab,Gujarat Lions,MJ Guptill:SE Marsh:HM Amla:,JP Faulkner:Basil Thampi:PJ Sangwan:DS Kulkarni:,44.0
+327,1082637.0,2.0,Punjab Cricket Association IS Bindra Stadium,2017.0,Gujarat Lions,Kings XI Punjab,DR Smith:Ishan Kishan:,VR Aaron:MM Sharma:Sandeep Sharma:,58.0
+328,1082638.0,1.0,Rajiv Gandhi International Stadium,2017.0,Mumbai Indians,Sunrisers Hyderabad,LMP Simmons:PA Patel:RG Sharma:N Rana:,Mohammed Siraj:S Kaul:B Kumar:Mohammad Nabi:,36.0
+329,1082638.0,2.0,Rajiv Gandhi International Stadium,2017.0,Sunrisers Hyderabad,Mumbai Indians,MC Henriques:S Dhawan:DA Warner:,MJ McClenaghan:Harbhajan Singh:JJ Bumrah:SL Malinga:,43.0
+330,1082639.0,1.0,Punjab Cricket Association IS Bindra Stadium,2017.0,Kings XI Punjab,Kolkata Knight Riders,M Vohra:MJ Guptill:WP Saha:SE Marsh:,SP Narine:C de Grandhomme:UT Yadav:,41.0
+331,1082639.0,2.0,Punjab Cricket Association IS Bindra Stadium,2017.0,Kolkata Knight Riders,Kings XI Punjab,G Gambhir:CA Lynn:SP Narine:,AR Patel:MM Sharma:MJ Henry:Sandeep Sharma:,61.0
+332,1082640.0,1.0,Green Park,2017.0,Gujarat Lions,Delhi Daredevils,DR Smith:Ishan Kishan:SK Raina:KD Karthik:,PJ Cummins:Z Khan:Mohammed Shami:,50.0
+333,1082640.0,2.0,Green Park,2017.0,Delhi Daredevils,Gujarat Lions,SV Samson:RR Pant:KK Nair:SS Iyer:,DR Smith:Basil Thampi:PJ Sangwan:DS Kulkarni:,64.0
+334,1082641.0,1.0,Wankhede Stadium,2017.0,Kings XI Punjab,Mumbai Indians,GJ Maxwell:MJ Guptill:WP Saha:,JJ Bumrah:SL Malinga:HH Pandya:KV Sharma:MJ McClenaghan:,71.0
+335,1082641.0,2.0,Wankhede Stadium,2017.0,Mumbai Indians,Kings XI Punjab,LMP Simmons:PA Patel:,I Sharma:MJ Henry:MM Sharma:Sandeep Sharma:,68.0
+336,1082642.0,1.0,Arun Jaitley Stadium,2017.0,Delhi Daredevils,Rising Pune Supergiant,SV Samson:RR Pant:KK Nair:SS Iyer:,SN Thakur:Washington Sundar:BA Stokes:JD Unadkat:,54.0
+337,1082642.0,2.0,Arun Jaitley Stadium,2017.0,Rising Pune Supergiant,Delhi Daredevils,RA Tripathi:SPD Smith:MK Tiwary:AM Rahane:,Z Khan:S Nadeem:Mohammed Shami:,53.0
+338,1082643.0,1.0,Green Park,2017.0,Gujarat Lions,Sunrisers Hyderabad,DR Smith:Ishan Kishan:,Mohammad Nabi:Mohammed Siraj:B Kumar:S Kaul:,61.0
+339,1082643.0,2.0,Green Park,2017.0,Sunrisers Hyderabad,Gujarat Lions,MC Henriques:V Shankar:S Dhawan:DA Warner:,P Kumar:PJ Sangwan:JP Faulkner:,47.0
+340,1082644.0,1.0,Eden Gardens,2017.0,Mumbai Indians,Kolkata Knight Riders,LMP Simmons:RG Sharma:SS Tiwary:,SP Narine:TA Boult:C de Grandhomme:UT Yadav:,51.0
+341,1082644.0,2.0,Eden Gardens,2017.0,Kolkata Knight Riders,Mumbai Indians,RV Uthappa:G Gambhir:CA Lynn:SP Narine:,TG Southee:MG Johnson:KV Sharma:,53.0
+342,1082645.0,1.0,Maharashtra Cricket Association Stadium,2017.0,Kings XI Punjab,Rising Pune Supergiant,EJG Morgan:AR Patel:MJ Guptill:WP Saha:SE Marsh:GJ Maxwell:R Tewatia:,SN Thakur:BA Stokes:JD Unadkat:,32.0
+343,1082645.0,2.0,Maharashtra Cricket Association Stadium,2017.0,Rising Pune Supergiant,Kings XI Punjab,RA Tripathi:SPD Smith:AM Rahane:,I Sharma:Sandeep Sharma:R Tewatia:MM Sharma:AR Patel:,43.0
+344,1082646.0,1.0,Arun Jaitley Stadium,2017.0,Royal Challengers Bangalore,Delhi Daredevils,CH Gayle:Vishnu Vinod:V Kohli:,PJ Cummins:Z Khan:Mohammed Shami:,37.0
+345,1082646.0,2.0,Arun Jaitley Stadium,2017.0,Delhi Daredevils,Royal Challengers Bangalore,SV Samson:RR Pant:KK Nair:SS Iyer:,Avesh Khan:YS Chahal:SR Watson:HV Patel:,42.0
+346,1082647.0,1.0,Wankhede Stadium,2017.0,Rising Pune Supergiant,Mumbai Indians,RA Tripathi:SPD Smith:MK Tiwary:AM Rahane:,MJ McClenaghan:KV Sharma:JJ Bumrah:SL Malinga:,33.0
+347,1082647.0,2.0,Wankhede Stadium,2017.0,Mumbai Indians,Rising Pune Supergiant,LMP Simmons:AT Rayudu:PA Patel:RG Sharma:KA Pollard:,SN Thakur:Washington Sundar:LH Ferguson:JD Unadkat:,42.0
+348,1082648.0,1.0,M Chinnaswamy Stadium,2017.0,Sunrisers Hyderabad,Kolkata Knight Riders,S Dhawan:DA Warner:KS Williamson:,SP Narine:TA Boult:UT Yadav:,30.0
+349,1082648.0,2.0,M Chinnaswamy Stadium,2017.0,Kolkata Knight Riders,Sunrisers Hyderabad,CA Lynn:G Gambhir:RV Uthappa:YK Pathan:IR Jaggi:,Bipul Sharma:Rashid Khan:S Kaul:CJ Jordan:B Kumar:,48.0
+350,1082649.0,1.0,M Chinnaswamy Stadium,2017.0,Kolkata Knight Riders,Mumbai Indians,CA Lynn:G Gambhir:RV Uthappa:SP Narine:IR Jaggi:,MG Johnson:KV Sharma:JJ Bumrah:SL Malinga:,25.0
+351,1082649.0,2.0,M Chinnaswamy Stadium,2017.0,Mumbai Indians,Kolkata Knight Riders,LMP Simmons:PA Patel:RG Sharma:KH Pandya:AT Rayudu:,NM Coulter-Nile:SP Narine:UT Yadav:PP Chawla:,36.0
+352,1082650.0,1.0,Rajiv Gandhi International Stadium,2017.0,Mumbai Indians,Rising Pune Supergiant,LMP Simmons:PA Patel:RG Sharma:AT Rayudu:,SN Thakur:Washington Sundar:LH Ferguson:JD Unadkat:,32.0
+353,1082650.0,2.0,Rajiv Gandhi International Stadium,2017.0,Rising Pune Supergiant,Mumbai Indians,RA Tripathi:SPD Smith:AM Rahane:,MG Johnson:JJ Bumrah:SL Malinga:KV Sharma:KH Pandya:,38.0
+354,1175356.0,1.0,MA Chidambaram Stadium,2019.0,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers:PA Patel:MM Ali:V Kohli:,DL Chahar:Harbhajan Singh:,33.0
+355,1175356.0,2.0,MA Chidambaram Stadium,2019.0,Chennai Super Kings,Royal Challengers Bangalore,SK Raina:AT Rayudu:SR Watson:,YS Chahal:MM Ali:NA Saini:,16.0
+356,1175357.0,1.0,Eden Gardens,2019.0,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner:JM Bairstow:,LH Ferguson:SP Narine:PP Chawla:M Prasidh Krishna:,54.0
+357,1175357.0,2.0,Eden Gardens,2019.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:CA Lynn:N Rana:,Shakib Al Hasan:B Kumar:S Kaul:Sandeep Sharma:,47.0
+358,1175358.0,1.0,Wankhede Stadium,2019.0,Delhi Capitals,Mumbai Indians,PP Shaw:CA Ingram:S Dhawan:SS Iyer:,JJ Bumrah:MJ McClenaghan:Rasikh Salam:HH Pandya:,45.0
+359,1175358.0,2.0,Wankhede Stadium,2019.0,Mumbai Indians,Delhi Capitals,Yuvraj Singh:SA Yadav:Q de Kock:RG Sharma:KA Pollard:,I Sharma:TA Boult:K Rabada:,46.0
+360,1175359.0,1.0,Sawai Mansingh Stadium,2019.0,Kings XI Punjab,Rajasthan Royals,CH Gayle:MA Agarwal:KL Rahul:,BA Stokes:K Gowtham:JC Archer:DS Kulkarni:,32.0
+361,1175359.0,2.0,Sawai Mansingh Stadium,2019.0,Rajasthan Royals,Kings XI Punjab,AM Rahane:JC Buttler:,Mujeeb Ur Rahman:SM Curran:Mohammed Shami:,64.0
+362,1175360.0,1.0,Arun Jaitley Stadium,2019.0,Delhi Capitals,Chennai Super Kings,PP Shaw:S Dhawan:SS Iyer:,DL Chahar:SN Thakur:Harbhajan Singh:,43.0
+363,1175360.0,2.0,Arun Jaitley Stadium,2019.0,Chennai Super Kings,Delhi Capitals,SK Raina:AT Rayudu:SR Watson:,I Sharma:K Rabada:AR Patel:,58.0
+364,1175361.0,1.0,Eden Gardens,2019.0,Kolkata Knight Riders,Kings XI Punjab,RV Uthappa:CA Lynn:SP Narine:N Rana:,Mohammed Shami:AJ Tye:GC Viljoen:R Ashwin:CV Varun:,53.0
+365,1175361.0,2.0,Eden Gardens,2019.0,Kings XI Punjab,Kolkata Knight Riders,CH Gayle:MA Agarwal:KL Rahul:SN Khan:,LH Ferguson:AD Russell:M Prasidh Krishna:,51.0
+366,1175362.0,1.0,M Chinnaswamy Stadium,2019.0,Mumbai Indians,Royal Challengers Bangalore,RG Sharma:Q de Kock:,Mohammed Siraj:UT Yadav:NA Saini:,52.0
+367,1175362.0,2.0,M Chinnaswamy Stadium,2019.0,Royal Challengers Bangalore,Mumbai Indians,PA Patel:MM Ali:V Kohli:,JJ Bumrah:SL Malinga:HH Pandya:KH Pandya:MJ McClenaghan:,60.0
+368,1175363.0,1.0,Rajiv Gandhi International Stadium,2019.0,Rajasthan Royals,Sunrisers Hyderabad,SV Samson:AM Rahane:JC Buttler:,Rashid Khan:B Kumar:S Kaul:Sandeep Sharma:,35.0
+369,1175363.0,2.0,Rajiv Gandhi International Stadium,2019.0,Sunrisers Hyderabad,Rajasthan Royals,DA Warner:JM Bairstow:,BA Stokes:K Gowtham:JC Archer:DS Kulkarni:,69.0
+370,1175364.0,1.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Mumbai Indians,Kings XI Punjab,RG Sharma:SA Yadav:Q de Kock:,GC Viljoen:R Ashwin:AJ Tye:Mohammed Shami:,62.0
+371,1175364.0,2.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Kings XI Punjab,Mumbai Indians,CH Gayle:KL Rahul:,MJ McClenaghan:JJ Bumrah:SL Malinga:,38.0
+372,1175365.0,1.0,Arun Jaitley Stadium,2019.0,Kolkata Knight Riders,Delhi Capitals,RV Uthappa:CA Lynn:NS Naik:,K Rabada:CH Morris:HV Patel:S Lamichhane:,36.0
+373,1175365.0,2.0,Arun Jaitley Stadium,2019.0,Delhi Capitals,Kolkata Knight Riders,PP Shaw:S Dhawan:SS Iyer:,LH Ferguson:AD Russell:PP Chawla:M Prasidh Krishna:,45.0
+374,1175366.0,1.0,Rajiv Gandhi International Stadium,2019.0,Sunrisers Hyderabad,Royal Challengers Bangalore,DA Warner:JM Bairstow:,YS Chahal:UT Yadav:MM Ali:Mohammed Siraj:,59.0
+375,1175366.0,2.0,Rajiv Gandhi International Stadium,2019.0,Royal Challengers Bangalore,Sunrisers Hyderabad,MM Ali:AB de Villiers:V Kohli:PA Patel:SO Hetmyer:,B Kumar:Mohammad Nabi:Sandeep Sharma:,30.0
+376,1175367.0,1.0,MA Chidambaram Stadium,2019.0,Chennai Super Kings,Rajasthan Royals,MS Dhoni:KM Jadhav:SK Raina:SR Watson:AT Rayudu:,BA Stokes:JC Archer:DS Kulkarni:,29.0
+377,1175367.0,2.0,MA Chidambaram Stadium,2019.0,Rajasthan Royals,Chennai Super Kings,SV Samson:AM Rahane:JC Buttler:RA Tripathi:SPD Smith:,DL Chahar:SN Thakur:MJ Santner:,45.0
+378,1175368.0,1.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Kings XI Punjab,Delhi Capitals,SN Khan:SM Curran:MA Agarwal:KL Rahul:,Avesh Khan:K Rabada:CH Morris:S Lamichhane:,54.0
+379,1175368.0,2.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Delhi Capitals,Kings XI Punjab,PP Shaw:S Dhawan:SS Iyer:,GC Viljoen:R Ashwin:SM Curran:Mohammed Shami:,49.0
+380,1175369.0,1.0,Sawai Mansingh Stadium,2019.0,Royal Challengers Bangalore,Rajasthan Royals,PA Patel:V Kohli:,K Gowtham:JC Archer:DS Kulkarni:,48.0
+381,1175369.0,2.0,Sawai Mansingh Stadium,2019.0,Rajasthan Royals,Royal Challengers Bangalore,AM Rahane:JC Buttler:,Mohammed Siraj:UT Yadav:NA Saini:,55.0
+382,1175370.0,1.0,Wankhede Stadium,2019.0,Mumbai Indians,Chennai Super Kings,RG Sharma:SA Yadav:Q de Kock:,DL Chahar:MM Sharma:SN Thakur:,40.0
+383,1175370.0,2.0,Wankhede Stadium,2019.0,Chennai Super Kings,Mumbai Indians,MS Dhoni:KM Jadhav:SK Raina:SR Watson:AT Rayudu:,SL Malinga:HH Pandya:JP Behrendorff:,34.0
+384,1175371.0,1.0,Arun Jaitley Stadium,2019.0,Delhi Capitals,Sunrisers Hyderabad,PP Shaw:S Dhawan:SS Iyer:,S Kaul:B Kumar:Mohammad Nabi:,36.0
+385,1175371.0,2.0,Arun Jaitley Stadium,2019.0,Sunrisers Hyderabad,Delhi Capitals,DA Warner:JM Bairstow:,K Rabada:CH Morris:AR Patel:S Lamichhane:,62.0
+386,1175372.0,1.0,M Chinnaswamy Stadium,2019.0,Royal Challengers Bangalore,Kolkata Knight Riders,PA Patel:V Kohli:,LH Ferguson:SP Narine:PP Chawla:M Prasidh Krishna:,53.0
+387,1175372.0,2.0,M Chinnaswamy Stadium,2019.0,Kolkata Knight Riders,Royal Challengers Bangalore,RV Uthappa:CA Lynn:SP Narine:,TG Southee:YS Chahal:NA Saini:,59.0
+388,1178393.0,1.0,MA Chidambaram Stadium,2019.0,Chennai Super Kings,Kings XI Punjab,F du Plessis:SR Watson:,AJ Tye:R Ashwin:SM Curran:Mohammed Shami:,54.0
+389,1178393.0,2.0,MA Chidambaram Stadium,2019.0,Kings XI Punjab,Chennai Super Kings,CH Gayle:MA Agarwal:KL Rahul:SN Khan:,DL Chahar:SC Kuggeleijn:Harbhajan Singh:,46.0
+390,1178394.0,1.0,Rajiv Gandhi International Stadium,2019.0,Mumbai Indians,Sunrisers Hyderabad,RG Sharma:Ishan Kishan:SA Yadav:Q de Kock:,B Kumar:Mohammad Nabi:Sandeep Sharma:,30.0
+391,1178394.0,2.0,Rajiv Gandhi International Stadium,2019.0,Sunrisers Hyderabad,Mumbai Indians,V Shankar:MK Pandey:DA Warner:JM Bairstow:,AS Joseph:RD Chahar:JJ Bumrah:JP Behrendorff:,39.0
+392,1178395.0,1.0,M Chinnaswamy Stadium,2019.0,Royal Challengers Bangalore,Delhi Capitals,PA Patel:AB de Villiers:V Kohli:,I Sharma:CH Morris:K Rabada:,40.0
+393,1178395.0,2.0,M Chinnaswamy Stadium,2019.0,Delhi Capitals,Royal Challengers Bangalore,PP Shaw:S Dhawan:SS Iyer:,TG Southee:YS Chahal:NA Saini:,53.0
+394,1178396.0,1.0,Sawai Mansingh Stadium,2019.0,Rajasthan Royals,Kolkata Knight Riders,SPD Smith:AM Rahane:JC Buttler:,SP Narine:PP Chawla:M Prasidh Krishna:,28.0
+395,1178396.0,2.0,Sawai Mansingh Stadium,2019.0,Kolkata Knight Riders,Rajasthan Royals,CA Lynn:SP Narine:,K Gowtham:JC Archer:DS Kulkarni:,65.0
+396,1178397.0,1.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Sunrisers Hyderabad,Kings XI Punjab,V Shankar:DA Warner:JM Bairstow:,Mujeeb Ur Rahman:AS Rajpoot:Mohammed Shami:,27.0
+397,1178397.0,2.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Kings XI Punjab,Sunrisers Hyderabad,CH Gayle:MA Agarwal:KL Rahul:,Rashid Khan:B Kumar:Mohammad Nabi:Sandeep Sharma:,38.0
+398,1178398.0,1.0,MA Chidambaram Stadium,2019.0,Kolkata Knight Riders,Chennai Super Kings,CA Lynn:RV Uthappa:SP Narine:N Rana:Shubman Gill:KD Karthik:,DL Chahar:Harbhajan Singh:RA Jadeja:,29.0
+399,1178398.0,2.0,MA Chidambaram Stadium,2019.0,Chennai Super Kings,Kolkata Knight Riders,F du Plessis:AT Rayudu:SK Raina:SR Watson:,SP Narine:PP Chawla:M Prasidh Krishna:,40.0
+400,1178399.0,1.0,Wankhede Stadium,2019.0,Kings XI Punjab,Mumbai Indians,CH Gayle:KL Rahul:,AS Joseph:JJ Bumrah:JP Behrendorff:,50.0
+401,1178399.0,2.0,Wankhede Stadium,2019.0,Mumbai Indians,Kings XI Punjab,SD Lad:SA Yadav:Q de Kock:,GC Viljoen:AS Rajpoot:Mohammed Shami:,50.0
+402,1178400.0,1.0,Sawai Mansingh Stadium,2019.0,Rajasthan Royals,Chennai Super Kings,SV Samson:AM Rahane:JC Buttler:RA Tripathi:SPD Smith:,DL Chahar:MJ Santner:SN Thakur:,54.0
+403,1178400.0,2.0,Sawai Mansingh Stadium,2019.0,Chennai Super Kings,Rajasthan Royals,MS Dhoni:KM Jadhav:SK Raina:SR Watson:F du Plessis:AT Rayudu:,JC Archer:DS Kulkarni:JD Unadkat:,24.0
+404,1178401.0,1.0,Eden Gardens,2019.0,Kolkata Knight Riders,Delhi Capitals,Shubman Gill:RV Uthappa:JL Denly:,AR Patel:I Sharma:CH Morris:K Rabada:,41.0
+405,1178401.0,2.0,Eden Gardens,2019.0,Delhi Capitals,Kolkata Knight Riders,PP Shaw:RR Pant:S Dhawan:SS Iyer:,LH Ferguson:AD Russell:M Prasidh Krishna:,57.0
+406,1178402.0,1.0,Wankhede Stadium,2019.0,Mumbai Indians,Rajasthan Royals,RG Sharma:Q de Kock:,K Gowtham:JC Archer:DS Kulkarni:JD Unadkat:,57.0
+407,1178402.0,2.0,Wankhede Stadium,2019.0,Rajasthan Royals,Mumbai Indians,AM Rahane:JC Buttler:,RD Chahar:AS Joseph:JJ Bumrah:JP Behrendorff:,59.0
+408,1178403.0,1.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Kings XI Punjab,Royal Challengers Bangalore,CH Gayle:KL Rahul:,Mohammed Siraj:UT Yadav:NA Saini:,60.0
+409,1178403.0,2.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Royal Challengers Bangalore,Kings XI Punjab,PA Patel:AB de Villiers:V Kohli:,M Ashwin:R Ashwin:SM Curran:Mohammed Shami:,63.0
+410,1178404.0,1.0,Eden Gardens,2019.0,Kolkata Knight Riders,Chennai Super Kings,CA Lynn:SP Narine:N Rana:,DL Chahar:SN Thakur:RA Jadeja:MJ Santner:,49.0
+411,1178404.0,2.0,Eden Gardens,2019.0,Chennai Super Kings,Kolkata Knight Riders,F du Plessis:AT Rayudu:SK Raina:SR Watson:,SP Narine:AD Russell:HF Gurney:M Prasidh Krishna:,44.0
+412,1178405.0,1.0,Rajiv Gandhi International Stadium,2019.0,Delhi Capitals,Sunrisers Hyderabad,PP Shaw:S Dhawan:C Munro:SS Iyer:,KK Ahmed:B Kumar:Sandeep Sharma:,51.0
+413,1178405.0,2.0,Rajiv Gandhi International Stadium,2019.0,Sunrisers Hyderabad,Delhi Capitals,DA Warner:JM Bairstow:,I Sharma:K Rabada:CH Morris:,40.0
+414,1178406.0,1.0,Wankhede Stadium,2019.0,Royal Challengers Bangalore,Mumbai Indians,PA Patel:AB de Villiers:V Kohli:,SL Malinga:JJ Bumrah:JP Behrendorff:,45.0
+415,1178406.0,2.0,Wankhede Stadium,2019.0,Mumbai Indians,Royal Challengers Bangalore,RG Sharma:Q de Kock:,Mohammed Siraj:YS Chahal:UT Yadav:NA Saini:,67.0
+416,1178407.0,1.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Kings XI Punjab,Rajasthan Royals,CH Gayle:MA Agarwal:KL Rahul:,JC Archer:DS Kulkarni:JD Unadkat:,39.0
+417,1178407.0,2.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Rajasthan Royals,Kings XI Punjab,RA Tripathi:SV Samson:JC Buttler:,Arshdeep Singh:Mujeeb Ur Rahman:,54.0
+418,1178408.0,1.0,Rajiv Gandhi International Stadium,2019.0,Chennai Super Kings,Sunrisers Hyderabad,F du Plessis:SR Watson:,KK Ahmed:B Kumar:Sandeep Sharma:,41.0
+419,1178408.0,2.0,Rajiv Gandhi International Stadium,2019.0,Sunrisers Hyderabad,Chennai Super Kings,DA Warner:JM Bairstow:KS Williamson:,DL Chahar:SN Thakur:Imran Tahir:,68.0
+420,1136561.0,1.0,Wankhede Stadium,2018.0,Mumbai Indians,Chennai Super Kings,E Lewis:RG Sharma:Ishan Kishan:SA Yadav:,DL Chahar:SR Watson:,39.0
+421,1136561.0,2.0,Wankhede Stadium,2018.0,Chennai Super Kings,Mumbai Indians,SK Raina:AT Rayudu:SR Watson:,Mustafizur Rahman:MJ McClenaghan:JJ Bumrah:HH Pandya:,42.0
+422,1136562.0,1.0,Punjab Cricket Association IS Bindra Stadium,2018.0,Delhi Daredevils,Kings XI Punjab,G Gambhir:C Munro:SS Iyer:,AJ Tye:MM Sharma:R Ashwin:Mujeeb Ur Rahman:AR Patel:,45.0
+423,1136562.0,2.0,Punjab Cricket Association IS Bindra Stadium,2018.0,Kings XI Punjab,Delhi Daredevils,Yuvraj Singh:MA Agarwal:KL Rahul:KK Nair:,CH Morris:TA Boult:A Mishra:Mohammed Shami:,73.0
+424,1136563.0,1.0,Eden Gardens,2018.0,Royal Challengers Bangalore,Kolkata Knight Riders,BB McCullum:V Kohli:Q de Kock:,Kuldeep Yadav:PP Chawla:R Vinay Kumar:,52.0
+425,1136563.0,2.0,Eden Gardens,2018.0,Kolkata Knight Riders,Royal Challengers Bangalore,RV Uthappa:CA Lynn:SP Narine:N Rana:,YS Chahal:CR Woakes:Washington Sundar:UT Yadav:,68.0
+426,1136564.0,1.0,Rajiv Gandhi International Stadium,2018.0,Rajasthan Royals,Sunrisers Hyderabad,DJM Short:SV Samson:AM Rahane:,B Stanlake:Shakib Al Hasan:B Kumar:,48.0
+427,1136564.0,2.0,Rajiv Gandhi International Stadium,2018.0,Sunrisers Hyderabad,Rajasthan Royals,S Dhawan:WP Saha:KS Williamson:,K Gowtham:B Laughlin:DS Kulkarni:JD Unadkat:,57.0
+428,1136565.0,1.0,MA Chidambaram Stadium,2018.0,Kolkata Knight Riders,Chennai Super Kings,RV Uthappa:CA Lynn:SP Narine:N Rana:,Harbhajan Singh:SR Watson:DL Chahar:Imran Tahir:RA Jadeja:,64.0
+429,1136565.0,2.0,MA Chidambaram Stadium,2018.0,Chennai Super Kings,Kolkata Knight Riders,SK Raina:AT Rayudu:SR Watson:,TK Curran:AD Russell:PP Chawla:R Vinay Kumar:,75.0
+430,1136566.0,1.0,Sawai Mansingh Stadium,2018.0,Rajasthan Royals,Delhi Daredevils,DJM Short:SV Samson:BA Stokes:AM Rahane:,TA Boult:CH Morris:S Nadeem:,51.0
+431,1136566.0,2.0,Sawai Mansingh Stadium,2018.0,Delhi Daredevils,Rajasthan Royals,CH Morris:RR Pant:V Shankar:GJ Maxwell:SS Iyer:C Munro:,K Gowtham:B Laughlin:DS Kulkarni:JD Unadkat:,60.0
+432,1136567.0,1.0,Rajiv Gandhi International Stadium,2018.0,Mumbai Indians,Sunrisers Hyderabad,E Lewis:RG Sharma:Ishan Kishan:SA Yadav:,B Stanlake:Rashid Khan:S Kaul:Sandeep Sharma:,54.0
+433,1136567.0,2.0,Rajiv Gandhi International Stadium,2018.0,Sunrisers Hyderabad,Mumbai Indians,S Dhawan:WP Saha:,KH Pandya:BCJ Cutting:PJ Sangwan:JJ Bumrah:,56.0
+434,1136568.0,1.0,M Chinnaswamy Stadium,2018.0,Kings XI Punjab,Royal Challengers Bangalore,AJ Finch:Yuvraj Singh:MA Agarwal:KK Nair:KL Rahul:,K Khejroliya:CR Woakes:UT Yadav:,50.0
+435,1136568.0,2.0,M Chinnaswamy Stadium,2018.0,Royal Challengers Bangalore,Kings XI Punjab,BB McCullum:AB de Villiers:V Kohli:Q de Kock:,AJ Tye:R Ashwin:Mujeeb Ur Rahman:AR Patel:,41.0
+436,1136569.0,1.0,Wankhede Stadium,2018.0,Mumbai Indians,Delhi Daredevils,E Lewis:SA Yadav:,DT Christian:TA Boult:S Nadeem:Mohammed Shami:,84.0
+437,1136569.0,2.0,Wankhede Stadium,2018.0,Delhi Daredevils,Mumbai Indians,RR Pant:G Gambhir:JJ Roy:,Mustafizur Rahman:A Dananjaya:JJ Bumrah:HH Pandya:,53.0
+438,1136570.0,1.0,Eden Gardens,2018.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:CA Lynn:N Rana:,B Stanlake:Rashid Khan:B Kumar:S Kaul:,49.0
+439,1136570.0,2.0,Eden Gardens,2018.0,Sunrisers Hyderabad,Kolkata Knight Riders,MK Pandey:S Dhawan:WP Saha:KS Williamson:,MG Johnson:AD Russell:SP Narine:PP Chawla:,46.0
+440,1136571.0,1.0,M Chinnaswamy Stadium,2018.0,Rajasthan Royals,Royal Challengers Bangalore,DJM Short:SV Samson:AM Rahane:,YS Chahal:CR Woakes:Washington Sundar:UT Yadav:,52.0
+441,1136571.0,2.0,M Chinnaswamy Stadium,2018.0,Royal Challengers Bangalore,Rajasthan Royals,BB McCullum:V Kohli:Q de Kock:,BA Stokes:K Gowtham:DS Kulkarni:JD Unadkat:,64.0
+442,1136572.0,1.0,Punjab Cricket Association IS Bindra Stadium,2018.0,Kings XI Punjab,Chennai Super Kings,CH Gayle:KL Rahul:,DL Chahar:SN Thakur:Harbhajan Singh:,75.0
+443,1136572.0,2.0,Punjab Cricket Association IS Bindra Stadium,2018.0,Chennai Super Kings,Kings XI Punjab,M Vijay:SW Billings:AT Rayudu:SR Watson:,AJ Tye:MM Sharma:Mujeeb Ur Rahman:BB Sran:,53.0
+444,1136573.0,1.0,Eden Gardens,2018.0,Kolkata Knight Riders,Delhi Daredevils,RV Uthappa:CA Lynn:SP Narine:,TA Boult:CH Morris:S Nadeem:,50.0
+445,1136573.0,2.0,Eden Gardens,2018.0,Delhi Daredevils,Kolkata Knight Riders,JJ Roy:G Gambhir:RR Pant:GJ Maxwell:SS Iyer:,Shivam Mavi:AD Russell:SP Narine:PP Chawla:,56.0
+446,1136574.0,1.0,Wankhede Stadium,2018.0,Mumbai Indians,Royal Challengers Bangalore,E Lewis:RG Sharma:Ishan Kishan:SA Yadav:,Mohammed Siraj:Washington Sundar:CR Woakes:UT Yadav:,60.0
+447,1136574.0,2.0,Wankhede Stadium,2018.0,Royal Challengers Bangalore,Mumbai Indians,Mandeep Singh:AB de Villiers:V Kohli:Q de Kock:,KH Pandya:Mustafizur Rahman:MJ McClenaghan:JJ Bumrah:,55.0
+448,1136575.0,1.0,Sawai Mansingh Stadium,2018.0,Rajasthan Royals,Kolkata Knight Riders,DJM Short:AM Rahane:,Shivam Mavi:Kuldeep Yadav:SP Narine:PP Chawla:,48.0
+449,1136575.0,2.0,Sawai Mansingh Stadium,2018.0,Kolkata Knight Riders,Rajasthan Royals,RV Uthappa:CA Lynn:SP Narine:,K Gowtham:B Laughlin:DS Kulkarni:JD Unadkat:,53.0
+450,1136576.0,1.0,Punjab Cricket Association IS Bindra Stadium,2018.0,Kings XI Punjab,Sunrisers Hyderabad,CH Gayle:KL Rahul:,CJ Jordan:Rashid Khan:B Kumar:S Kaul:,49.0
+451,1136576.0,2.0,Punjab Cricket Association IS Bindra Stadium,2018.0,Sunrisers Hyderabad,Kings XI Punjab,S Dhawan:KS Williamson:WP Saha:YK Pathan:MK Pandey:,AJ Tye:MM Sharma:BB Sran:,40.0
+452,1136577.0,1.0,Maharashtra Cricket Association Stadium,2018.0,Chennai Super Kings,Rajasthan Royals,SK Raina:AT Rayudu:SR Watson:,K Gowtham:BA Stokes:B Laughlin:STR Binny:JD Unadkat:,69.0
+453,1136577.0,2.0,Maharashtra Cricket Association Stadium,2018.0,Rajasthan Royals,Chennai Super Kings,SV Samson:AM Rahane:JC Buttler:BA Stokes:H Klaasen:,DL Chahar:SN Thakur:SR Watson:,35.0
+454,1136578.0,1.0,Eden Gardens,2018.0,Kolkata Knight Riders,Kings XI Punjab,RV Uthappa:CA Lynn:SP Narine:,AJ Tye:Mujeeb Ur Rahman:AS Rajpoot:BB Sran:,50.0
+455,1136578.0,2.0,Eden Gardens,2018.0,Kings XI Punjab,Kolkata Knight Riders,CH Gayle:KL Rahul:,Shivam Mavi:PP Chawla:AD Russell:SP Narine:N Rana:,73.0
+456,1136579.0,1.0,M Chinnaswamy Stadium,2018.0,Delhi Daredevils,Royal Challengers Bangalore,RR Pant:G Gambhir:JJ Roy:SS Iyer:,YS Chahal:CR Woakes:UT Yadav:,28.0
+457,1136579.0,2.0,M Chinnaswamy Stadium,2018.0,Royal Challengers Bangalore,Delhi Daredevils,M Vohra:AB de Villiers:V Kohli:Q de Kock:,TA Boult:CH Morris:S Nadeem:GJ Maxwell:,43.0
+458,1136580.0,1.0,Rajiv Gandhi International Stadium,2018.0,Chennai Super Kings,Sunrisers Hyderabad,F du Plessis:SK Raina:SR Watson:,B Stanlake:Shakib Al Hasan:B Kumar:S Kaul:,27.0
+459,1136580.0,2.0,Rajiv Gandhi International Stadium,2018.0,Sunrisers Hyderabad,Chennai Super Kings,Shakib Al Hasan:RK Bhui:KS Williamson:DJ Hooda:MK Pandey:,DL Chahar:SN Thakur:SR Watson:,40.0
+460,1136581.0,1.0,Sawai Mansingh Stadium,2018.0,Mumbai Indians,Rajasthan Royals,E Lewis:Ishan Kishan:SA Yadav:,K Gowtham:JC Archer:DS Kulkarni:JD Unadkat:,43.0
+461,1136581.0,2.0,Sawai Mansingh Stadium,2018.0,Rajasthan Royals,Mumbai Indians,RA Tripathi:SV Samson:BA Stokes:AM Rahane:,KH Pandya:Mustafizur Rahman:MJ McClenaghan:JJ Bumrah:,43.0
+462,1136582.0,1.0,Arun Jaitley Stadium,2018.0,Kings XI Punjab,Delhi Daredevils,MA Agarwal:KK Nair:AJ Finch:KL Rahul:,Avesh Khan:TA Boult:LE Plunkett:,51.0
+463,1136582.0,2.0,Arun Jaitley Stadium,2018.0,Delhi Daredevils,Kings XI Punjab,G Gambhir:PP Shaw:RR Pant:GJ Maxwell:SS Iyer:,AJ Tye:AS Rajpoot:BB Sran:,48.0
+464,1136583.0,1.0,Wankhede Stadium,2018.0,Sunrisers Hyderabad,Mumbai Indians,S Dhawan:Shakib Al Hasan:KS Williamson:WP Saha:YK Pathan:MK Pandey:,MJ McClenaghan:JJ Bumrah:HH Pandya:,51.0
+465,1136583.0,2.0,Wankhede Stadium,2018.0,Mumbai Indians,Sunrisers Hyderabad,E Lewis:Ishan Kishan:SA Yadav:RG Sharma:KH Pandya:,Shakib Al Hasan:Mohammad Nabi:Sandeep Sharma:,22.0
+466,1136584.0,1.0,M Chinnaswamy Stadium,2018.0,Royal Challengers Bangalore,Chennai Super Kings,AB de Villiers:V Kohli:Q de Kock:,DL Chahar:SN Thakur:Harbhajan Singh:,52.0
+467,1136584.0,2.0,M Chinnaswamy Stadium,2018.0,Chennai Super Kings,Royal Challengers Bangalore,SW Billings:SK Raina:AT Rayudu:SR Watson:,Mohammed Siraj:Washington Sundar:P Negi:UT Yadav:,55.0
+468,1136585.0,1.0,Rajiv Gandhi International Stadium,2018.0,Sunrisers Hyderabad,Kings XI Punjab,S Dhawan:Shakib Al Hasan:KS Williamson:WP Saha:MK Pandey:,AS Rajpoot:BB Sran:,37.0
+469,1136585.0,2.0,Rajiv Gandhi International Stadium,2018.0,Kings XI Punjab,Sunrisers Hyderabad,CH Gayle:KL Rahul:,S Kaul:Mohammad Nabi:Sandeep Sharma:,44.0
+470,1136586.0,1.0,Arun Jaitley Stadium,2018.0,Delhi Daredevils,Kolkata Knight Riders,PP Shaw:C Munro:,MG Johnson:Shivam Mavi:Kuldeep Yadav:PP Chawla:SP Narine:,57.0
+471,1136586.0,2.0,Arun Jaitley Stadium,2018.0,Kolkata Knight Riders,Delhi Daredevils,CA Lynn:RV Uthappa:SP Narine:N Rana:Shubman Gill:KD Karthik:,Avesh Khan:TA Boult:LE Plunkett:GJ Maxwell:,51.0
+472,1136587.0,1.0,Maharashtra Cricket Association Stadium,2018.0,Chennai Super Kings,Mumbai Indians,SK Raina:AT Rayudu:SR Watson:,KH Pandya:MJ McClenaghan:JJ Bumrah:HH Pandya:,51.0
+473,1136587.0,2.0,Maharashtra Cricket Association Stadium,2018.0,Mumbai Indians,Chennai Super Kings,E Lewis:SA Yadav:,DL Chahar:SN Thakur:Harbhajan Singh:SR Watson:,50.0
+474,1136588.0,1.0,Sawai Mansingh Stadium,2018.0,Sunrisers Hyderabad,Rajasthan Royals,S Dhawan:AD Hales:KS Williamson:,K Gowtham:JC Archer:DS Kulkarni:JD Unadkat:,39.0
+475,1136588.0,2.0,Sawai Mansingh Stadium,2018.0,Rajasthan Royals,Sunrisers Hyderabad,RA Tripathi:SV Samson:AM Rahane:,Shakib Al Hasan:Basil Thampi:S Kaul:Sandeep Sharma:,43.0
+476,1136589.0,1.0,M Chinnaswamy Stadium,2018.0,Royal Challengers Bangalore,Kolkata Knight Riders,BB McCullum:Q de Kock:,MG Johnson:Shivam Mavi:SP Narine:PP Chawla:,40.0
+477,1136589.0,2.0,M Chinnaswamy Stadium,2018.0,Kolkata Knight Riders,Royal Challengers Bangalore,CA Lynn:SP Narine:,TG Southee:YS Chahal:UT Yadav:,51.0
+478,1136590.0,1.0,Maharashtra Cricket Association Stadium,2018.0,Chennai Super Kings,Delhi Daredevils,F du Plessis:SR Watson:,Avesh Khan:TA Boult:LE Plunkett:R Tewatia:,56.0
+479,1136590.0,2.0,Maharashtra Cricket Association Stadium,2018.0,Delhi Daredevils,Chennai Super Kings,PP Shaw:RR Pant:C Munro:SS Iyer:,SR Watson:KM Asif:L Ngidi:,59.0
+480,1136591.0,1.0,M Chinnaswamy Stadium,2018.0,Royal Challengers Bangalore,Mumbai Indians,BB McCullum:M Vohra:Q de Kock:,KH Pandya:MJ McClenaghan:JP Duminy:JJ Bumrah:,43.0
+481,1136591.0,2.0,M Chinnaswamy Stadium,2018.0,Mumbai Indians,Royal Challengers Bangalore,JP Duminy:Ishan Kishan:SA Yadav:RG Sharma:KA Pollard:,TG Southee:Mohammed Siraj:UT Yadav:,40.0
+482,1136592.0,1.0,Arun Jaitley Stadium,2018.0,Delhi Daredevils,Rajasthan Royals,PP Shaw:C Munro:SS Iyer:,K Gowtham:S Gopal:JC Archer:DS Kulkarni:JD Unadkat:,62.0
+483,1136592.0,2.0,Arun Jaitley Stadium,2018.0,Rajasthan Royals,Delhi Daredevils,DJM Short:JC Buttler:,Avesh Khan:LE Plunkett:TA Boult:A Mishra:S Nadeem:,79.0
+484,1136593.0,1.0,Eden Gardens,2018.0,Chennai Super Kings,Kolkata Knight Riders,F du Plessis:SK Raina:SR Watson:,MG Johnson:Shivam Mavi:SP Narine:PP Chawla:,57.0
+485,1136593.0,2.0,Eden Gardens,2018.0,Kolkata Knight Riders,Chennai Super Kings,Shubman Gill:RV Uthappa:CA Lynn:SP Narine:,SR Watson:KM Asif:L Ngidi:,56.0
+486,1136594.0,1.0,Holkar Cricket Stadium,2018.0,Kings XI Punjab,Mumbai Indians,CH Gayle:KL Rahul:,MJ McClenaghan:JJ Bumrah:HH Pandya:,49.0
+487,1136594.0,2.0,Holkar Cricket Stadium,2018.0,Mumbai Indians,Kings XI Punjab,E Lewis:Ishan Kishan:SA Yadav:,AJ Tye:R Ashwin:Mujeeb Ur Rahman:AS Rajpoot:,39.0
+488,1136595.0,1.0,Maharashtra Cricket Association Stadium,2018.0,Royal Challengers Bangalore,Chennai Super Kings,BB McCullum:PA Patel:V Kohli:,SN Thakur:L Ngidi:DJ Willey:,47.0
+489,1136595.0,2.0,Maharashtra Cricket Association Stadium,2018.0,Chennai Super Kings,Royal Challengers Bangalore,SK Raina:AT Rayudu:SR Watson:,TG Southee:YS Chahal:UT Yadav:,42.0
+490,1136596.0,1.0,Rajiv Gandhi International Stadium,2018.0,Delhi Daredevils,Sunrisers Hyderabad,PP Shaw:GJ Maxwell:SS Iyer:,Shakib Al Hasan:B Kumar:S Kaul:Sandeep Sharma:,60.0
+491,1136596.0,2.0,Rajiv Gandhi International Stadium,2018.0,Sunrisers Hyderabad,Delhi Daredevils,S Dhawan:AD Hales:,Avesh Khan:TA Boult:LE Plunkett:GJ Maxwell:,61.0
+492,1136597.0,1.0,Wankhede Stadium,2018.0,Mumbai Indians,Kolkata Knight Riders,E Lewis:SA Yadav:,MG Johnson:PP Chawla:SP Narine:N Rana:M Prasidh Krishna:,56.0
+493,1136597.0,2.0,Wankhede Stadium,2018.0,Kolkata Knight Riders,Mumbai Indians,Shubman Gill:CA Lynn:RV Uthappa:N Rana:,MJ McClenaghan:JJ Bumrah:HH Pandya:,47.0
+494,1136598.0,1.0,Holkar Cricket Stadium,2018.0,Rajasthan Royals,Kings XI Punjab,DJM Short:SV Samson:AM Rahane:JC Buttler:,R Ashwin:Mujeeb Ur Rahman:AS Rajpoot:AR Patel:,45.0
+495,1136598.0,2.0,Holkar Cricket Stadium,2018.0,Kings XI Punjab,Rajasthan Royals,CH Gayle:KK Nair:MA Agarwal:KL Rahul:,BA Stokes:K Gowtham:JC Archer:JD Unadkat:,34.0
+496,1136599.0,1.0,Rajiv Gandhi International Stadium,2018.0,Sunrisers Hyderabad,Royal Challengers Bangalore,S Dhawan:MK Pandey:AD Hales:KS Williamson:,TG Southee:Mohammed Siraj:UT Yadav:MM Ali:,38.0
+497,1136599.0,2.0,Rajiv Gandhi International Stadium,2018.0,Royal Challengers Bangalore,Sunrisers Hyderabad,PA Patel:M Vohra:V Kohli:,Shakib Al Hasan:B Kumar:S Kaul:Sandeep Sharma:,55.0
+498,1136600.0,1.0,Sawai Mansingh Stadium,2018.0,Rajasthan Royals,Kings XI Punjab,K Gowtham:AM Rahane:JC Buttler:,AJ Tye:MM Sharma:MP Stoinis:AR Patel:,63.0
+499,1136600.0,2.0,Sawai Mansingh Stadium,2018.0,Kings XI Punjab,Rajasthan Royals,CH Gayle:AD Nath:R Ashwin:KK Nair:KL Rahul:,BA Stokes:K Gowtham:JC Archer:JD Unadkat:,33.0
+500,1136601.0,1.0,Eden Gardens,2018.0,Mumbai Indians,Kolkata Knight Riders,E Lewis:RG Sharma:SA Yadav:,PP Chawla:TK Curran:AD Russell:SP Narine:M Prasidh Krishna:,47.0
+501,1136601.0,2.0,Eden Gardens,2018.0,Kolkata Knight Riders,Mumbai Indians,RV Uthappa:CA Lynn:SP Narine:N Rana:,KH Pandya:MJ McClenaghan:JJ Bumrah:HH Pandya:,47.0
+502,1136602.0,1.0,Arun Jaitley Stadium,2018.0,Delhi Daredevils,Sunrisers Hyderabad,PP Shaw:RR Pant:JJ Roy:SS Iyer:,Shakib Al Hasan:B Kumar:S Kaul:Sandeep Sharma:,38.0
+503,1136602.0,2.0,Arun Jaitley Stadium,2018.0,Sunrisers Hyderabad,Delhi Daredevils,S Dhawan:AD Hales:KS Williamson:,TA Boult:LE Plunkett:S Nadeem:HV Patel:,51.0
+504,1136603.0,1.0,Sawai Mansingh Stadium,2018.0,Chennai Super Kings,Rajasthan Royals,SK Raina:AT Rayudu:SR Watson:,K Gowtham:Ankit Sharma:BA Stokes:JC Archer:JD Unadkat:,55.0
+505,1136603.0,2.0,Sawai Mansingh Stadium,2018.0,Rajasthan Royals,Chennai Super Kings,SV Samson:BA Stokes:AM Rahane:JC Buttler:,SN Thakur:Harbhajan Singh:RA Jadeja:DJ Willey:,57.0
+506,1136604.0,1.0,Holkar Cricket Stadium,2018.0,Kolkata Knight Riders,Kings XI Punjab,RV Uthappa:CA Lynn:SP Narine:,AJ Tye:MM Sharma:R Ashwin:Mujeeb Ur Rahman:BB Sran:,59.0
+507,1136604.0,2.0,Holkar Cricket Stadium,2018.0,Kings XI Punjab,Kolkata Knight Riders,CH Gayle:KK Nair:MA Agarwal:KL Rahul:,JPR Scantlebury-Searles:AD Russell:SP Narine:M Prasidh Krishna:,58.0
+508,1136605.0,1.0,Arun Jaitley Stadium,2018.0,Delhi Daredevils,Royal Challengers Bangalore,PP Shaw:RR Pant:JJ Roy:SS Iyer:,TG Southee:YS Chahal:UT Yadav:,44.0
+509,1136605.0,2.0,Arun Jaitley Stadium,2018.0,Royal Challengers Bangalore,Delhi Daredevils,AB de Villiers:PA Patel:MM Ali:V Kohli:,TA Boult:CJ Dala:HV Patel:S Lamichhane:,58.0
+510,1136606.0,1.0,Maharashtra Cricket Association Stadium,2018.0,Sunrisers Hyderabad,Chennai Super Kings,AD Hales:S Dhawan:KS Williamson:,DL Chahar:SN Thakur:DJ Willey:,29.0
+511,1136606.0,2.0,Maharashtra Cricket Association Stadium,2018.0,Chennai Super Kings,Sunrisers Hyderabad,AT Rayudu:SR Watson:,Rashid Khan:Shakib Al Hasan:B Kumar:Sandeep Sharma:,53.0
+512,1136607.0,1.0,Wankhede Stadium,2018.0,Mumbai Indians,Rajasthan Royals,E Lewis:SA Yadav:,BA Stokes:K Gowtham:JC Archer:DS Kulkarni:,51.0
+513,1136607.0,2.0,Wankhede Stadium,2018.0,Rajasthan Royals,Mumbai Indians,DJM Short:AM Rahane:JC Buttler:,KH Pandya:MJ McClenaghan:JJ Bumrah:HH Pandya:,51.0
+514,1136608.0,1.0,Holkar Cricket Stadium,2018.0,Kings XI Punjab,Royal Challengers Bangalore,CH Gayle:AJ Finch:MP Stoinis:KK Nair:KL Rahul:,TG Southee:Mohammed Siraj:UT Yadav:,47.0
+515,1136608.0,2.0,Holkar Cricket Stadium,2018.0,Royal Challengers Bangalore,Kings XI Punjab,PA Patel:V Kohli:,AJ Tye:R Ashwin:AS Rajpoot:MM Sharma:,66.0
+516,1136609.0,1.0,Eden Gardens,2018.0,Rajasthan Royals,Kolkata Knight Riders,RA Tripathi:AM Rahane:JC Buttler:,Shivam Mavi:AD Russell:SP Narine:M Prasidh Krishna:,68.0
+517,1136609.0,2.0,Eden Gardens,2018.0,Kolkata Knight Riders,Rajasthan Royals,RV Uthappa:CA Lynn:SP Narine:N Rana:,BA Stokes:K Gowtham:JC Archer:,51.0
+518,1136610.0,1.0,Wankhede Stadium,2018.0,Mumbai Indians,Kings XI Punjab,E Lewis:Ishan Kishan:SA Yadav:RG Sharma:KH Pandya:,AJ Tye:MM Sharma:AS Rajpoot:,60.0
+519,1136610.0,2.0,Wankhede Stadium,2018.0,Kings XI Punjab,Mumbai Indians,CH Gayle:AJ Finch:KL Rahul:,KH Pandya:MJ McClenaghan:JJ Bumrah:HH Pandya:,57.0
+520,1136611.0,1.0,M Chinnaswamy Stadium,2018.0,Royal Challengers Bangalore,Sunrisers Hyderabad,PA Patel:MM Ali:AB de Villiers:V Kohli:,Shakib Al Hasan:Rashid Khan:S Kaul:Sandeep Sharma:,44.0
+521,1136611.0,2.0,M Chinnaswamy Stadium,2018.0,Sunrisers Hyderabad,Royal Challengers Bangalore,AD Hales:S Dhawan:KS Williamson:,TG Southee:YS Chahal:UT Yadav:Mohammed Siraj:,56.0
+522,1136612.0,1.0,Arun Jaitley Stadium,2018.0,Delhi Daredevils,Chennai Super Kings,PP Shaw:RR Pant:SS Iyer:,DL Chahar:SN Thakur:RA Jadeja:L Ngidi:,39.0
+523,1136612.0,2.0,Arun Jaitley Stadium,2018.0,Chennai Super Kings,Delhi Daredevils,AT Rayudu:SR Watson:,Avesh Khan:TA Boult:HV Patel:S Lamichhane:,44.0
+524,1136613.0,1.0,Sawai Mansingh Stadium,2018.0,Rajasthan Royals,Royal Challengers Bangalore,RA Tripathi:JC Archer:AM Rahane:,TG Southee:YS Chahal:UT Yadav:MM Ali:,45.0
+525,1136613.0,2.0,Sawai Mansingh Stadium,2018.0,Royal Challengers Bangalore,Rajasthan Royals,PA Patel:AB de Villiers:V Kohli:,K Gowtham:B Laughlin:JC Archer:JD Unadkat:,55.0
+526,1136614.0,1.0,Rajiv Gandhi International Stadium,2018.0,Sunrisers Hyderabad,Kolkata Knight Riders,S Dhawan:SP Goswami:,PP Chawla:AD Russell:SP Narine:N Rana:M Prasidh Krishna:,60.0
+527,1136614.0,2.0,Rajiv Gandhi International Stadium,2018.0,Kolkata Knight Riders,Sunrisers Hyderabad,RV Uthappa:CA Lynn:SP Narine:,Shakib Al Hasan:B Kumar:S Kaul:Sandeep Sharma:,66.0
+528,1136615.0,1.0,Arun Jaitley Stadium,2018.0,Delhi Daredevils,Mumbai Indians,PP Shaw:RR Pant:GJ Maxwell:SS Iyer:,KH Pandya:Mustafizur Rahman:JJ Bumrah:HH Pandya:,46.0
+529,1136615.0,2.0,Arun Jaitley Stadium,2018.0,Mumbai Indians,Delhi Daredevils,E Lewis:Ishan Kishan:SA Yadav:,HV Patel:LE Plunkett:TA Boult:GJ Maxwell:S Lamichhane:,57.0
+530,1136616.0,1.0,Maharashtra Cricket Association Stadium,2018.0,Kings XI Punjab,Chennai Super Kings,DA Miller:CH Gayle:AJ Finch:MK Tiwary:KL Rahul:,DL Chahar:L Ngidi:,29.0
+531,1136616.0,2.0,Maharashtra Cricket Association Stadium,2018.0,Chennai Super Kings,Kings XI Punjab,SK Raina:Harbhajan Singh:F du Plessis:SW Billings:AT Rayudu:,AJ Tye:MM Sharma:AS Rajpoot:,33.0
+532,1136617.0,1.0,Wankhede Stadium,2018.0,Sunrisers Hyderabad,Chennai Super Kings,S Dhawan:SP Goswami:Shakib Al Hasan:KS Williamson:MK Pandey:,DL Chahar:SN Thakur:L Ngidi:,47.0
+533,1136617.0,2.0,Wankhede Stadium,2018.0,Chennai Super Kings,Sunrisers Hyderabad,MS Dhoni:SK Raina:SR Watson:F du Plessis:AT Rayudu:,B Kumar:S Kaul:Sandeep Sharma:,33.0
+534,1136618.0,1.0,Eden Gardens,2018.0,Kolkata Knight Riders,Rajasthan Royals,CA Lynn:RV Uthappa:SP Narine:N Rana:KD Karthik:,K Gowtham:JC Archer:JD Unadkat:,46.0
+535,1136618.0,2.0,Eden Gardens,2018.0,Rajasthan Royals,Kolkata Knight Riders,RA Tripathi:SV Samson:AM Rahane:,AD Russell:SP Narine:PP Chawla:M Prasidh Krishna:,51.0
+536,1136619.0,1.0,Eden Gardens,2018.0,Sunrisers Hyderabad,Kolkata Knight Riders,S Dhawan:WP Saha:,Shivam Mavi:AD Russell:SP Narine:M Prasidh Krishna:,45.0
+537,1136619.0,2.0,Eden Gardens,2018.0,Kolkata Knight Riders,Sunrisers Hyderabad,CA Lynn:SP Narine:N Rana:,KK Ahmed:B Kumar:S Kaul:,67.0
+538,1136620.0,1.0,Wankhede Stadium,2018.0,Sunrisers Hyderabad,Chennai Super Kings,S Dhawan:SP Goswami:KS Williamson:,DL Chahar:SN Thakur:L Ngidi:,42.0
+539,1136620.0,2.0,Wankhede Stadium,2018.0,Chennai Super Kings,Sunrisers Hyderabad,F du Plessis:SK Raina:SR Watson:,B Kumar:Sandeep Sharma:,35.0
+540,1178409.0,1.0,Arun Jaitley Stadium,2019.0,Mumbai Indians,Delhi Capitals,RG Sharma:Q de Kock:,I Sharma:K Rabada:CH Morris:KMA Paul:,57.0
+541,1178409.0,2.0,Arun Jaitley Stadium,2019.0,Delhi Capitals,Mumbai Indians,PP Shaw:S Dhawan:,JJ Bumrah:SL Malinga:J Yadav:RD Chahar:HH Pandya:,48.0
+542,1178410.0,1.0,Eden Gardens,2019.0,Royal Challengers Bangalore,Kolkata Knight Riders,PA Patel:V Kohli:AD Nath:,SP Narine:HF Gurney:M Prasidh Krishna:,42.0
+543,1178410.0,2.0,Eden Gardens,2019.0,Kolkata Knight Riders,Royal Challengers Bangalore,CA Lynn:RV Uthappa:SP Narine:N Rana:Shubman Gill:,Mohammed Siraj:DW Steyn:NA Saini:,37.0
+544,1178411.0,1.0,Sawai Mansingh Stadium,2019.0,Mumbai Indians,Rajasthan Royals,RG Sharma:SA Yadav:Q de Kock:,S Gopal:STR Binny:JC Archer:DS Kulkarni:JD Unadkat:,46.0
+545,1178411.0,2.0,Sawai Mansingh Stadium,2019.0,Rajasthan Royals,Mumbai Indians,SV Samson:SPD Smith:AM Rahane:,JJ Bumrah:SL Malinga:RD Chahar:HH Pandya:KH Pandya:,60.0
+546,1178412.0,1.0,Arun Jaitley Stadium,2019.0,Kings XI Punjab,Delhi Capitals,DA Miller:CH Gayle:MA Agarwal:KL Rahul:,I Sharma:K Rabada:S Lamichhane:,50.0
+547,1178412.0,2.0,Arun Jaitley Stadium,2019.0,Delhi Capitals,Kings XI Punjab,PP Shaw:S Dhawan:SS Iyer:,GC Viljoen:R Ashwin:SM Curran:Mohammed Shami:Harpreet Brar:,60.0
+548,1178413.0,1.0,Rajiv Gandhi International Stadium,2019.0,Kolkata Knight Riders,Sunrisers Hyderabad,Shubman Gill:CA Lynn:SP Narine:N Rana:,KK Ahmed:B Kumar:S Nadeem:Sandeep Sharma:,61.0
+549,1178413.0,2.0,Rajiv Gandhi International Stadium,2019.0,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner:JM Bairstow:,KC Cariappa:PP Chawla:Y Prithvi Raj:HF Gurney:SP Narine:,72.0
+550,1178414.0,1.0,M Chinnaswamy Stadium,2019.0,Royal Challengers Bangalore,Chennai Super Kings,PA Patel:AB de Villiers:V Kohli:,DL Chahar:SN Thakur:,49.0
+551,1178414.0,2.0,M Chinnaswamy Stadium,2019.0,Chennai Super Kings,Royal Challengers Bangalore,MS Dhoni:KM Jadhav:SK Raina:SR Watson:F du Plessis:AT Rayudu:,UT Yadav:DW Steyn:NA Saini:,32.0
+552,1178415.0,1.0,Sawai Mansingh Stadium,2019.0,Rajasthan Royals,Delhi Capitals,SV Samson:SPD Smith:AM Rahane:,I Sharma:K Rabada:AR Patel:,52.0
+553,1178415.0,2.0,Sawai Mansingh Stadium,2019.0,Delhi Capitals,Rajasthan Royals,PP Shaw:S Dhawan:,S Gopal:STR Binny:JC Archer:DS Kulkarni:JD Unadkat:,59.0
+554,1178416.0,1.0,MA Chidambaram Stadium,2019.0,Sunrisers Hyderabad,Chennai Super Kings,MK Pandey:DA Warner:JM Bairstow:,DL Chahar:Harbhajan Singh:,54.0
+555,1178416.0,2.0,MA Chidambaram Stadium,2019.0,Chennai Super Kings,Sunrisers Hyderabad,F du Plessis:SK Raina:SR Watson:,Shakib Al Hasan:KK Ahmed:B Kumar:Sandeep Sharma:,49.0
+556,1178417.0,1.0,M Chinnaswamy Stadium,2019.0,Royal Challengers Bangalore,Kings XI Punjab,PA Patel:AB de Villiers:V Kohli:,AS Rajpoot:Mohammed Shami:,70.0
+557,1178417.0,2.0,M Chinnaswamy Stadium,2019.0,Kings XI Punjab,Royal Challengers Bangalore,CH Gayle:MA Agarwal:KL Rahul:,TG Southee:YS Chahal:UT Yadav:NA Saini:,68.0
+558,1178418.0,1.0,Eden Gardens,2019.0,Kolkata Knight Riders,Rajasthan Royals,Shubman Gill:CA Lynn:KD Karthik:N Rana:,VR Aaron:O Thomas:JC Archer:,32.0
+559,1178418.0,2.0,Eden Gardens,2019.0,Rajasthan Royals,Kolkata Knight Riders,SV Samson:SPD Smith:AM Rahane:,CR Brathwaite:Y Prithvi Raj:AD Russell:SP Narine:M Prasidh Krishna:,55.0
+560,1178419.0,1.0,MA Chidambaram Stadium,2019.0,Mumbai Indians,Chennai Super Kings,E Lewis:RG Sharma:Q de Kock:,DL Chahar:Harbhajan Singh:,45.0
+561,1178419.0,2.0,MA Chidambaram Stadium,2019.0,Chennai Super Kings,Mumbai Indians,KM Jadhav:SK Raina:SR Watson:M Vijay:AT Rayudu:,KH Pandya:JJ Bumrah:HH Pandya:SL Malinga:,40.0
+562,1178420.0,1.0,Sawai Mansingh Stadium,2019.0,Sunrisers Hyderabad,Rajasthan Royals,MK Pandey:DA Warner:KS Williamson:,VR Aaron:O Thomas:S Gopal:JD Unadkat:,51.0
+563,1178420.0,2.0,Sawai Mansingh Stadium,2019.0,Rajasthan Royals,Sunrisers Hyderabad,LS Livingstone:AM Rahane:,Shakib Al Hasan:Rashid Khan:S Kaul:KK Ahmed:B Kumar:,60.0
+564,1178421.0,1.0,Arun Jaitley Stadium,2019.0,Delhi Capitals,Royal Challengers Bangalore,PP Shaw:S Dhawan:SS Iyer:,YS Chahal:Washington Sundar:UT Yadav:NA Saini:,59.0
+565,1178421.0,2.0,Arun Jaitley Stadium,2019.0,Royal Challengers Bangalore,Delhi Capitals,PA Patel:AB de Villiers:V Kohli:,I Sharma:K Rabada:AR Patel:S Lamichhane:,64.0
+566,1178422.0,1.0,Eden Gardens,2019.0,Kolkata Knight Riders,Mumbai Indians,Shubman Gill:CA Lynn:,KH Pandya:SL Malinga:JJ Bumrah:BB Sran:,50.0
+567,1178422.0,2.0,Eden Gardens,2019.0,Mumbai Indians,Kolkata Knight Riders,E Lewis:RG Sharma:SA Yadav:Q de Kock:,SP Narine:S Sandeep Warrier:HF Gurney:,41.0
+568,1178423.0,1.0,Rajiv Gandhi International Stadium,2019.0,Sunrisers Hyderabad,Kings XI Punjab,WP Saha:DA Warner:,Arshdeep Singh:R Ashwin:Mujeeb Ur Rahman:Mohammed Shami:,77.0
+569,1178423.0,2.0,Rajiv Gandhi International Stadium,2019.0,Kings XI Punjab,Sunrisers Hyderabad,CH Gayle:MA Agarwal:KL Rahul:,Rashid Khan:KK Ahmed:B Kumar:Sandeep Sharma:,44.0
+570,1178424.0,1.0,M Chinnaswamy Stadium,2019.0,Royal Challengers Bangalore,Rajasthan Royals,P Negi:Gurkeerat Singh:AB de Villiers:V Kohli:NA Saini:PA Patel:H Klaasen:UT Yadav:MP Stoinis:,S Gopal:VR Aaron:R Parag:O Thomas:JD Unadkat:,62.0
+571,1178424.0,2.0,M Chinnaswamy Stadium,2019.0,Rajasthan Royals,Royal Challengers Bangalore,SV Samson:LS Livingstone:,K Khejroliya:YS Chahal:UT Yadav:NA Saini:,41.0
+572,1178425.0,1.0,MA Chidambaram Stadium,2019.0,Chennai Super Kings,Delhi Capitals,F du Plessis:SK Raina:SR Watson:,J Suchith:TA Boult:CH Morris:AR Patel:,27.0
+573,1178425.0,2.0,MA Chidambaram Stadium,2019.0,Delhi Capitals,Chennai Super Kings,PP Shaw:RR Pant:S Dhawan:SS Iyer:,DL Chahar:Harbhajan Singh:,59.0
+574,1178426.0,1.0,Wankhede Stadium,2019.0,Mumbai Indians,Sunrisers Hyderabad,RG Sharma:SA Yadav:Q de Kock:,Rashid Khan:KK Ahmed:B Kumar:Mohammad Nabi:,44.0
+575,1178426.0,2.0,Wankhede Stadium,2019.0,Sunrisers Hyderabad,Mumbai Indians,MJ Guptill:MK Pandey:WP Saha:KS Williamson:,SL Malinga:JJ Bumrah:BB Sran:,59.0
+576,1178427.0,1.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Kings XI Punjab,Kolkata Knight Riders,CH Gayle:MA Agarwal:KL Rahul:N Pooran:,SP Narine:S Sandeep Warrier:HF Gurney:,41.0
+577,1178427.0,2.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Kolkata Knight Riders,Kings XI Punjab,Shubman Gill:CA Lynn:,Arshdeep Singh:R Ashwin:AJ Tye:Mohammed Shami:,62.0
+578,1178428.0,1.0,Arun Jaitley Stadium,2019.0,Rajasthan Royals,Delhi Capitals,SV Samson:S Gopal:AM Rahane:MK Lomror:R Parag:LS Livingstone:,I Sharma:TA Boult:AR Patel:,30.0
+579,1178428.0,2.0,Arun Jaitley Stadium,2019.0,Delhi Capitals,Rajasthan Royals,PP Shaw:RR Pant:S Dhawan:SS Iyer:,K Gowtham:S Gopal:VR Aaron:IS Sodhi:O Thomas:,46.0
+580,1178429.0,1.0,M Chinnaswamy Stadium,2019.0,Sunrisers Hyderabad,Royal Challengers Bangalore,MJ Guptill:MK Pandey:WP Saha:,YS Chahal:UT Yadav:NA Saini:,52.0
+581,1178429.0,2.0,M Chinnaswamy Stadium,2019.0,Royal Challengers Bangalore,Sunrisers Hyderabad,Gurkeerat Singh:AB de Villiers:V Kohli:PA Patel:SO Hetmyer:,Rashid Khan:KK Ahmed:B Kumar:,49.0
+582,1178430.0,1.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Chennai Super Kings,Kings XI Punjab,F du Plessis:SK Raina:SR Watson:,R Ashwin:SM Curran:Mohammed Shami:Harpreet Brar:,42.0
+583,1178430.0,2.0,Punjab Cricket Association IS Bindra Stadium,2019.0,Kings XI Punjab,Chennai Super Kings,CH Gayle:KL Rahul:,DL Chahar:DJ Bravo:Harbhajan Singh:,68.0
+584,1178431.0,1.0,Wankhede Stadium,2019.0,Kolkata Knight Riders,Mumbai Indians,Shubman Gill:CA Lynn:,JJ Bumrah:SL Malinga:RD Chahar:KH Pandya:MJ McClenaghan:,49.0
+585,1178431.0,2.0,Wankhede Stadium,2019.0,Mumbai Indians,Kolkata Knight Riders,RG Sharma:Q de Kock:,SP Narine:AD Russell:S Sandeep Warrier:HF Gurney:,46.0
+586,1181764.0,1.0,MA Chidambaram Stadium,2019.0,Chennai Super Kings,Mumbai Indians,F du Plessis:M Vijay:SK Raina:SR Watson:,JJ Bumrah:J Yadav:SL Malinga:RD Chahar:KH Pandya:,32.0
+587,1181764.0,2.0,MA Chidambaram Stadium,2019.0,Mumbai Indians,Chennai Super Kings,RG Sharma:Ishan Kishan:SA Yadav:Q de Kock:,DL Chahar:Harbhajan Singh:,44.0
+588,1181766.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019.0,Sunrisers Hyderabad,Delhi Capitals,MJ Guptill:MK Pandey:WP Saha:,I Sharma:TA Boult:AR Patel:,54.0
+589,1181766.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019.0,Delhi Capitals,Sunrisers Hyderabad,PP Shaw:S Dhawan:,Rashid Khan:KK Ahmed:B Kumar:Mohammad Nabi:,55.0
+590,1181767.0,1.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019.0,Delhi Capitals,Chennai Super Kings,PP Shaw:S Dhawan:C Munro:SS Iyer:,DL Chahar:SN Thakur:Harbhajan Singh:,41.0
+591,1181767.0,2.0,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2019.0,Chennai Super Kings,Delhi Capitals,F du Plessis:SR Watson:,I Sharma:TA Boult:AR Patel:,42.0
+592,1181768.0,1.0,Rajiv Gandhi International Stadium,2019.0,Mumbai Indians,Chennai Super Kings,RG Sharma:Ishan Kishan:SA Yadav:Q de Kock:,DL Chahar:SN Thakur:Harbhajan Singh:,45.0
+593,1181768.0,2.0,Rajiv Gandhi International Stadium,2019.0,Chennai Super Kings,Mumbai Indians,F du Plessis:SK Raina:SR Watson:,KH Pandya:MJ McClenaghan:JJ Bumrah:SL Malinga:,53.0
+594,1216492.0,1.0,Sheikh Zayed Stadium,2020.0,Mumbai Indians,Chennai Super Kings,RG Sharma:SS Tiwary:SA Yadav:Q de Kock:,DL Chahar:SM Curran:PP Chawla:L Ngidi:,51.0
+595,1216492.0,2.0,Sheikh Zayed Stadium,2020.0,Chennai Super Kings,Mumbai Indians,F du Plessis:M Vijay:AT Rayudu:SR Watson:,TA Boult:JJ Bumrah:JL Pattinson:,37.0
+596,1216493.0,1.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Kings XI Punjab,S Dhawan:PP Shaw:RR Pant:SO Hetmyer:SS Iyer:,CJ Jordan:SS Cottrell:Mohammed Shami:,23.0
+597,1216493.0,2.0,Dubai International Cricket Stadium,2020.0,Kings XI Punjab,Delhi Capitals,GJ Maxwell:MA Agarwal:N Pooran:KK Nair:KL Rahul:,MM Sharma:K Rabada:R Ashwin:A Nortje:,35.0
+598,1216534.0,1.0,Dubai International Cricket Stadium,2020.0,Royal Challengers Bangalore,Sunrisers Hyderabad,D Padikkal:AJ Finch:,MR Marsh:T Natarajan:Sandeep Sharma:B Kumar:V Shankar:,53.0
+599,1216534.0,2.0,Dubai International Cricket Stadium,2020.0,Sunrisers Hyderabad,Royal Challengers Bangalore,MK Pandey:DA Warner:JM Bairstow:,UT Yadav:DW Steyn:NA Saini:,48.0
+600,1216496.0,1.0,Sharjah Cricket Stadium,2020.0,Rajasthan Royals,Chennai Super Kings,SV Samson:YBK Jaiswal:SPD Smith:,DL Chahar:SM Curran:L Ngidi:,54.0
+601,1216496.0,2.0,Sharjah Cricket Stadium,2020.0,Chennai Super Kings,Rajasthan Royals,M Vijay:SR Watson:,TK Curran:JC Archer:S Gopal:JD Unadkat:,53.0
+602,1216508.0,1.0,Sheikh Zayed Stadium,2020.0,Mumbai Indians,Kolkata Knight Riders,RG Sharma:SA Yadav:Q de Kock:,SP Narine:Shivam Mavi:S Sandeep Warrier:PJ Cummins:,59.0
+603,1216508.0,2.0,Sheikh Zayed Stadium,2020.0,Kolkata Knight Riders,Mumbai Indians,Shubman Gill:SP Narine:N Rana:KD Karthik:,TA Boult:RD Chahar:JJ Bumrah:JL Pattinson:,33.0
+604,1216539.0,1.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Chennai Super Kings,PP Shaw:S Dhawan:,DL Chahar:JR Hazlewood:SM Curran:,36.0
+605,1216539.0,2.0,Dubai International Cricket Stadium,2020.0,Chennai Super Kings,Delhi Capitals,F du Plessis:M Vijay:SR Watson:,Avesh Khan:K Rabada:AR Patel:A Nortje:,34.0
+606,1216510.0,1.0,Dubai International Cricket Stadium,2020.0,Kings XI Punjab,Royal Challengers Bangalore,MA Agarwal:KL Rahul:,UT Yadav:DW Steyn:NA Saini:,50.0
+607,1216510.0,2.0,Dubai International Cricket Stadium,2020.0,Royal Challengers Bangalore,Kings XI Punjab,AJ Finch:D Padikkal:AB de Villiers:V Kohli:JR Philippe:,SS Cottrell:Ravi Bishnoi:Mohammed Shami:,40.0
+608,1216545.0,1.0,Sheikh Zayed Stadium,2020.0,Sunrisers Hyderabad,Kolkata Knight Riders,MK Pandey:DA Warner:JM Bairstow:,PJ Cummins:Shivam Mavi:SP Narine:,40.0
+609,1216545.0,2.0,Sheikh Zayed Stadium,2020.0,Kolkata Knight Riders,Sunrisers Hyderabad,Shubman Gill:SP Narine:N Rana:KD Karthik:,KK Ahmed:B Kumar:T Natarajan:,52.0
+610,1216527.0,1.0,Sharjah Cricket Stadium,2020.0,Kings XI Punjab,Rajasthan Royals,MA Agarwal:KL Rahul:,JC Archer:AS Rajpoot:JD Unadkat:,60.0
+611,1216527.0,2.0,Sharjah Cricket Stadium,2020.0,Rajasthan Royals,Kings XI Punjab,SV Samson:SPD Smith:JC Buttler:,SS Cottrell:JDS Neesham:Ravi Bishnoi:Mohammed Shami:,69.0
+612,1216504.0,1.0,Dubai International Cricket Stadium,2020.0,Kolkata Knight Riders,Rajasthan Royals,Shubman Gill:SP Narine:N Rana:,TK Curran:JC Archer:AS Rajpoot:JD Unadkat:,42.0
+613,1216504.0,2.0,Dubai International Cricket Stadium,2020.0,Rajasthan Royals,Kolkata Knight Riders,SV Samson:RV Uthappa:SPD Smith:JC Buttler:,PJ Cummins:Shivam Mavi:SP Narine:,39.0
+614,1216532.0,1.0,Sheikh Zayed Stadium,2020.0,Sunrisers Hyderabad,Delhi Capitals,DA Warner:JM Bairstow:,I Sharma:K Rabada:MP Stoinis:A Nortje:,38.0
+615,1216532.0,2.0,Sheikh Zayed Stadium,2020.0,Delhi Capitals,Sunrisers Hyderabad,PP Shaw:S Dhawan:SS Iyer:,KK Ahmed:B Kumar:T Natarajan:,34.0
+616,1216547.0,1.0,Dubai International Cricket Stadium,2020.0,Royal Challengers Bangalore,Mumbai Indians,D Padikkal:AJ Finch:,TA Boult:RD Chahar:JJ Bumrah:JL Pattinson:,59.0
+617,1216547.0,2.0,Dubai International Cricket Stadium,2020.0,Mumbai Indians,Royal Challengers Bangalore,RG Sharma:Ishan Kishan:SA Yadav:Q de Kock:,Washington Sundar:I Udana:NA Saini:,35.0
+618,1216503.0,1.0,Sheikh Zayed Stadium,2020.0,Mumbai Indians,Kings XI Punjab,RG Sharma:Ishan Kishan:SA Yadav:Q de Kock:,SS Cottrell:Ravi Bishnoi:Mohammed Shami:K Gowtham:,41.0
+619,1216503.0,2.0,Sheikh Zayed Stadium,2020.0,Kings XI Punjab,Mumbai Indians,KK Nair:MA Agarwal:KL Rahul:N Pooran:,KH Pandya:TA Boult:JJ Bumrah:JL Pattinson:,41.0
+620,1216516.0,1.0,Dubai International Cricket Stadium,2020.0,Sunrisers Hyderabad,Chennai Super Kings,MK Pandey:DA Warner:JM Bairstow:,DL Chahar:SN Thakur:SM Curran:,42.0
+621,1216516.0,2.0,Dubai International Cricket Stadium,2020.0,Chennai Super Kings,Sunrisers Hyderabad,F du Plessis:KM Jadhav:AT Rayudu:SR Watson:,KK Ahmed:B Kumar:T Natarajan:,36.0
+622,1216514.0,1.0,Sheikh Zayed Stadium,2020.0,Rajasthan Royals,Royal Challengers Bangalore,SV Samson:MK Lomror:JC Buttler:RV Uthappa:SPD Smith:,YS Chahal:Washington Sundar:I Udana:NA Saini:,38.0
+623,1216514.0,2.0,Sheikh Zayed Stadium,2020.0,Royal Challengers Bangalore,Rajasthan Royals,D Padikkal:AJ Finch:V Kohli:,TK Curran:JC Archer:S Gopal:JD Unadkat:,50.0
+624,1216515.0,1.0,Sharjah Cricket Stadium,2020.0,Delhi Capitals,Kolkata Knight Riders,PP Shaw:S Dhawan:SS Iyer:,SP Narine:PJ Cummins:Shivam Mavi:CV Varun:,57.0
+625,1216515.0,2.0,Sharjah Cricket Stadium,2020.0,Kolkata Knight Riders,Delhi Capitals,Shubman Gill:SP Narine:N Rana:,HV Patel:A Nortje:K Rabada:MP Stoinis:R Ashwin:,59.0
+626,1216513.0,1.0,Dubai International Cricket Stadium,2020.0,Kings XI Punjab,Chennai Super Kings,MA Agarwal:KL Rahul:,DL Chahar:SN Thakur:SM Curran:,46.0
+627,1216513.0,2.0,Dubai International Cricket Stadium,2020.0,Chennai Super Kings,Kings XI Punjab,F du Plessis:SR Watson:,CJ Jordan:SS Cottrell:Mohammed Shami:Harpreet Brar:,60.0
+628,1216538.0,1.0,Sharjah Cricket Stadium,2020.0,Mumbai Indians,Sunrisers Hyderabad,RG Sharma:Ishan Kishan:SA Yadav:Q de Kock:,T Natarajan:S Kaul:Sandeep Sharma:,48.0
+629,1216538.0,2.0,Sharjah Cricket Stadium,2020.0,Sunrisers Hyderabad,Mumbai Indians,MK Pandey:DA Warner:JM Bairstow:,KH Pandya:TA Boult:JJ Bumrah:JL Pattinson:,56.0
+630,1216519.0,1.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Royal Challengers Bangalore,PP Shaw:S Dhawan:,YS Chahal:Washington Sundar:I Udana:NA Saini:,63.0
+631,1216519.0,2.0,Dubai International Cricket Stadium,2020.0,Royal Challengers Bangalore,Delhi Capitals,AJ Finch:D Padikkal:MM Ali:AB de Villiers:V Kohli:,HV Patel:A Nortje:K Rabada:R Ashwin:AR Patel:,43.0
+632,1216511.0,1.0,Sheikh Zayed Stadium,2020.0,Mumbai Indians,Rajasthan Royals,RG Sharma:SA Yadav:Q de Kock:,Kartik Tyagi:S Gopal:AS Rajpoot:TK Curran:JC Archer:,57.0
+633,1216511.0,2.0,Sheikh Zayed Stadium,2020.0,Rajasthan Royals,Mumbai Indians,SV Samson:YBK Jaiswal:JC Buttler:MK Lomror:SPD Smith:,TA Boult:JJ Bumrah:JL Pattinson:,31.0
+634,1216501.0,1.0,Sheikh Zayed Stadium,2020.0,Kolkata Knight Riders,Chennai Super Kings,RA Tripathi:Shubman Gill:N Rana:,DL Chahar:SN Thakur:SM Curran:,52.0
+635,1216501.0,2.0,Sheikh Zayed Stadium,2020.0,Chennai Super Kings,Kolkata Knight Riders,F du Plessis:AT Rayudu:SR Watson:,PJ Cummins:Shivam Mavi:,54.0
+636,1216542.0,1.0,Dubai International Cricket Stadium,2020.0,Sunrisers Hyderabad,Kings XI Punjab,DA Warner:JM Bairstow:,Mujeeb Ur Rahman:SS Cottrell:Mohammed Shami:,58.0
+637,1216542.0,2.0,Dubai International Cricket Stadium,2020.0,Kings XI Punjab,Sunrisers Hyderabad,N Pooran:MA Agarwal:KL Rahul:P Simran Singh:,T Natarajan:KK Ahmed:Sandeep Sharma:,45.0
+638,1216500.0,1.0,Sharjah Cricket Stadium,2020.0,Delhi Capitals,Rajasthan Royals,S Dhawan:PP Shaw:RR Pant:MP Stoinis:SS Iyer:,AJ Tye:VR Aaron:JC Archer:Kartik Tyagi:,51.0
+639,1216500.0,2.0,Sharjah Cricket Stadium,2020.0,Rajasthan Royals,Delhi Capitals,SPD Smith:YBK Jaiswal:JC Buttler:,R Ashwin:K Rabada:HV Patel:A Nortje:,41.0
+640,1216523.0,1.0,Sheikh Zayed Stadium,2020.0,Kolkata Knight Riders,Kings XI Punjab,RA Tripathi:EJG Morgan:Shubman Gill:N Rana:,Arshdeep Singh:CJ Jordan:Mohammed Shami:,25.0
+641,1216523.0,2.0,Sheikh Zayed Stadium,2020.0,Kings XI Punjab,Kolkata Knight Riders,MA Agarwal:KL Rahul:,PJ Cummins:M Prasidh Krishna:KL Nagarkoti:,47.0
+642,1216525.0,1.0,Dubai International Cricket Stadium,2020.0,Royal Challengers Bangalore,Chennai Super Kings,D Padikkal:AJ Finch:V Kohli:,DL Chahar:SN Thakur:SM Curran:,36.0
+643,1216525.0,2.0,Dubai International Cricket Stadium,2020.0,Chennai Super Kings,Royal Challengers Bangalore,F du Plessis:N Jagadeesan:AT Rayudu:SR Watson:,CH Morris:I Udana:Washington Sundar:NA Saini:,26.0
+644,1216507.0,1.0,Dubai International Cricket Stadium,2020.0,Sunrisers Hyderabad,Rajasthan Royals,MK Pandey:DA Warner:JM Bairstow:,Kartik Tyagi:JC Archer:S Gopal:JD Unadkat:,26.0
+645,1216507.0,2.0,Dubai International Cricket Stadium,2020.0,Rajasthan Royals,Sunrisers Hyderabad,SV Samson:JC Buttler:BA Stokes:RV Uthappa:SPD Smith:,T Natarajan:KK Ahmed:Sandeep Sharma:,36.0
+646,1216529.0,1.0,Sheikh Zayed Stadium,2020.0,Delhi Capitals,Mumbai Indians,PP Shaw:S Dhawan:AM Rahane:SS Iyer:,KH Pandya:TA Boult:JJ Bumrah:JL Pattinson:,46.0
+647,1216529.0,2.0,Sheikh Zayed Stadium,2020.0,Mumbai Indians,Delhi Capitals,RG Sharma:SA Yadav:Q de Kock:,R Ashwin:K Rabada:AR Patel:A Nortje:,44.0
+648,1216540.0,1.0,Sharjah Cricket Stadium,2020.0,Royal Challengers Bangalore,Kolkata Knight Riders,D Padikkal:AJ Finch:,PJ Cummins:AD Russell:M Prasidh Krishna:,47.0
+649,1216540.0,2.0,Sharjah Cricket Stadium,2020.0,Kolkata Knight Riders,Royal Challengers Bangalore,Shubman Gill:T Banton:N Rana:,Mohammed Siraj:CH Morris:Washington Sundar:NA Saini:,43.0
+650,1216528.0,1.0,Dubai International Cricket Stadium,2020.0,Chennai Super Kings,Sunrisers Hyderabad,F du Plessis:SM Curran:AT Rayudu:SR Watson:,KK Ahmed:S Nadeem:Sandeep Sharma:,44.0
+651,1216528.0,2.0,Dubai International Cricket Stadium,2020.0,Sunrisers Hyderabad,Chennai Super Kings,MK Pandey:DA Warner:JM Bairstow:KS Williamson:,DL Chahar:SM Curran:,40.0
+652,1216543.0,1.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Rajasthan Royals,PP Shaw:S Dhawan:AM Rahane:SS Iyer:,BA Stokes:JC Archer:Kartik Tyagi:JD Unadkat:,47.0
+653,1216543.0,2.0,Dubai International Cricket Stadium,2020.0,Rajasthan Royals,Delhi Capitals,SV Samson:BA Stokes:SPD Smith:JC Buttler:,TU Deshpande:K Rabada:R Ashwin:A Nortje:,50.0
+654,1216531.0,1.0,Sharjah Cricket Stadium,2020.0,Royal Challengers Bangalore,Kings XI Punjab,D Padikkal:AJ Finch:V Kohli:,Arshdeep Singh:Ravi Bishnoi:GJ Maxwell:Mohammed Shami:,57.0
+655,1216531.0,2.0,Sharjah Cricket Stadium,2020.0,Kings XI Punjab,Royal Challengers Bangalore,MA Agarwal:KL Rahul:,YS Chahal:CH Morris:I Udana:NA Saini:,56.0
+656,1216526.0,1.0,Sheikh Zayed Stadium,2020.0,Kolkata Knight Riders,Mumbai Indians,RA Tripathi:Shubman Gill:KD Karthik:N Rana:,NM Coulter-Nile:TA Boult:KH Pandya:JJ Bumrah:,33.0
+657,1216526.0,2.0,Sheikh Zayed Stadium,2020.0,Mumbai Indians,Kolkata Knight Riders,RG Sharma:Q de Kock:,PJ Cummins:CJ Green:AD Russell:M Prasidh Krishna:,51.0
+658,1216509.0,1.0,Sharjah Cricket Stadium,2020.0,Chennai Super Kings,Delhi Capitals,F du Plessis:SM Curran:SR Watson:,TU Deshpande:K Rabada:AR Patel:A Nortje:,39.0
+659,1216509.0,2.0,Sharjah Cricket Stadium,2020.0,Delhi Capitals,Chennai Super Kings,PP Shaw:S Dhawan:AM Rahane:SS Iyer:,DL Chahar:SN Thakur:SM Curran:,41.0
+660,1216522.0,1.0,Dubai International Cricket Stadium,2020.0,Rajasthan Royals,Royal Challengers Bangalore,SV Samson:RV Uthappa:BA Stokes:,I Udana:CH Morris:Washington Sundar:NA Saini:,52.0
+661,1216522.0,2.0,Dubai International Cricket Stadium,2020.0,Royal Challengers Bangalore,Rajasthan Royals,D Padikkal:AJ Finch:V Kohli:,Kartik Tyagi:JC Archer:S Gopal:JD Unadkat:,47.0
+662,1216512.0,1.0,Sheikh Zayed Stadium,2020.0,Kolkata Knight Riders,Sunrisers Hyderabad,RA Tripathi:Shubman Gill:,T Natarajan:Basil Thampi:Sandeep Sharma:,48.0
+663,1216512.0,2.0,Sheikh Zayed Stadium,2020.0,Sunrisers Hyderabad,Kolkata Knight Riders,JM Bairstow:KS Williamson:,PJ Cummins:AD Russell:Shivam Mavi:CV Varun:,58.0
+664,1216517.0,1.0,Dubai International Cricket Stadium,2020.0,Mumbai Indians,Kings XI Punjab,Ishan Kishan:SA Yadav:Q de Kock:RG Sharma:KH Pandya:,Arshdeep Singh:GJ Maxwell:Mohammed Shami:,43.0
+665,1216517.0,2.0,Dubai International Cricket Stadium,2020.0,Kings XI Punjab,Mumbai Indians,CH Gayle:MA Agarwal:KL Rahul:,KH Pandya:TA Boult:NM Coulter-Nile:JJ Bumrah:,51.0
+666,1216533.0,1.0,Sheikh Zayed Stadium,2020.0,Chennai Super Kings,Rajasthan Royals,F du Plessis:SM Curran:AT Rayudu:SR Watson:,BA Stokes:JC Archer:Kartik Tyagi:AS Rajpoot:,43.0
+667,1216533.0,2.0,Sheikh Zayed Stadium,2020.0,Rajasthan Royals,Chennai Super Kings,SV Samson:JC Buttler:BA Stokes:RV Uthappa:SPD Smith:,DL Chahar:JR Hazlewood:,31.0
+668,1216546.0,1.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Kings XI Punjab,PP Shaw:S Dhawan:SS Iyer:,Arshdeep Singh:JDS Neesham:GJ Maxwell:Mohammed Shami:,53.0
+669,1216546.0,2.0,Dubai International Cricket Stadium,2020.0,Kings XI Punjab,Delhi Capitals,CH Gayle:GJ Maxwell:MA Agarwal:N Pooran:KL Rahul:,TU Deshpande:K Rabada:DR Sams:R Ashwin:AR Patel:,57.0
+670,1216494.0,1.0,Sheikh Zayed Stadium,2020.0,Kolkata Knight Riders,Royal Challengers Bangalore,EJG Morgan:RA Tripathi:T Banton:N Rana:Shubman Gill:KD Karthik:,Mohammed Siraj:CH Morris:NA Saini:,17.0
+671,1216494.0,2.0,Sheikh Zayed Stadium,2020.0,Royal Challengers Bangalore,Kolkata Knight Riders,D Padikkal:AJ Finch:,CV Varun:PJ Cummins:M Prasidh Krishna:,44.0
+672,1216518.0,1.0,Dubai International Cricket Stadium,2020.0,Rajasthan Royals,Sunrisers Hyderabad,SV Samson:RV Uthappa:BA Stokes:,JO Holder:V Shankar:Sandeep Sharma:,47.0
+673,1216518.0,2.0,Dubai International Cricket Stadium,2020.0,Sunrisers Hyderabad,Rajasthan Royals,V Shankar:MK Pandey:DA Warner:JM Bairstow:,BA Stokes:JC Archer:Kartik Tyagi:AS Rajpoot:,58.0
+674,1216521.0,1.0,Sharjah Cricket Stadium,2020.0,Chennai Super Kings,Mumbai Indians,MS Dhoni:RD Gaikwad:F du Plessis:N Jagadeesan:RA Jadeja:SM Curran:AT Rayudu:,KH Pandya:TA Boult:JJ Bumrah:,24.0
+675,1216521.0,2.0,Sharjah Cricket Stadium,2020.0,Mumbai Indians,Chennai Super Kings,Ishan Kishan:Q de Kock:,DL Chahar:JR Hazlewood:Imran Tahir:,52.0
+676,1216497.0,1.0,Sheikh Zayed Stadium,2020.0,Kolkata Knight Riders,Delhi Capitals,RA Tripathi:Shubman Gill:KD Karthik:N Rana:,TU Deshpande:K Rabada:AR Patel:A Nortje:,36.0
+677,1216497.0,2.0,Sheikh Zayed Stadium,2020.0,Delhi Capitals,Kolkata Knight Riders,RR Pant:S Dhawan:AM Rahane:SS Iyer:,PJ Cummins:M Prasidh Krishna:KL Nagarkoti:,36.0
+678,1216498.0,1.0,Dubai International Cricket Stadium,2020.0,Kings XI Punjab,Sunrisers Hyderabad,CH Gayle:Mandeep Singh:KL Rahul:,JO Holder:KK Ahmed:Sandeep Sharma:,47.0
+679,1216498.0,2.0,Dubai International Cricket Stadium,2020.0,Sunrisers Hyderabad,Kings XI Punjab,DA Warner:JM Bairstow:,Arshdeep Singh:M Ashwin:Mohammed Shami:,52.0
+680,1216541.0,1.0,Sheikh Zayed Stadium,2020.0,Mumbai Indians,Rajasthan Royals,Ishan Kishan:SA Yadav:Q de Kock:,JC Archer:Kartik Tyagi:AS Rajpoot:,59.0
+681,1216541.0,2.0,Sheikh Zayed Stadium,2020.0,Rajasthan Royals,Mumbai Indians,SV Samson:RV Uthappa:SPD Smith:BA Stokes:,KH Pandya:TA Boult:JJ Bumrah:JL Pattinson:,55.0
+682,1216544.0,1.0,Dubai International Cricket Stadium,2020.0,Royal Challengers Bangalore,Chennai Super Kings,D Padikkal:AJ Finch:V Kohli:,DL Chahar:MJ Santner:SM Curran:Monu Kumar:,46.0
+683,1216544.0,2.0,Dubai International Cricket Stadium,2020.0,Chennai Super Kings,Royal Challengers Bangalore,F du Plessis:AT Rayudu:RD Gaikwad:,Mohammed Siraj:CH Morris:YS Chahal:Washington Sundar:,48.0
+684,1216520.0,1.0,Sharjah Cricket Stadium,2020.0,Kolkata Knight Riders,Kings XI Punjab,EJG Morgan:RA Tripathi:N Rana:Shubman Gill:KD Karthik:,Arshdeep Singh:GJ Maxwell:Mohammed Shami:,54.0
+685,1216520.0,2.0,Sharjah Cricket Stadium,2020.0,Kings XI Punjab,Kolkata Knight Riders,Mandeep Singh:KL Rahul:,CV Varun:PJ Cummins:M Prasidh Krishna:,36.0
+686,1216524.0,1.0,Dubai International Cricket Stadium,2020.0,Sunrisers Hyderabad,Delhi Capitals,WP Saha:DA Warner:,R Ashwin:K Rabada:AR Patel:A Nortje:,77.0
+687,1216524.0,2.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Sunrisers Hyderabad,SO Hetmyer:S Dhawan:MP Stoinis:AM Rahane:,JO Holder:S Nadeem:Sandeep Sharma:,54.0
+688,1216499.0,1.0,Sheikh Zayed Stadium,2020.0,Royal Challengers Bangalore,Mumbai Indians,D Padikkal:JR Philippe:,KH Pandya:TA Boult:JJ Bumrah:JL Pattinson:,54.0
+689,1216499.0,2.0,Sheikh Zayed Stadium,2020.0,Mumbai Indians,Royal Challengers Bangalore,Ishan Kishan:SA Yadav:Q de Kock:,Mohammed Siraj:CH Morris:Washington Sundar:DW Steyn:,45.0
+690,1216536.0,1.0,Dubai International Cricket Stadium,2020.0,Kolkata Knight Riders,Chennai Super Kings,Shubman Gill:N Rana:,DL Chahar:MJ Santner:SM Curran:L Ngidi:,48.0
+691,1216536.0,2.0,Dubai International Cricket Stadium,2020.0,Chennai Super Kings,Kolkata Knight Riders,RD Gaikwad:SR Watson:,KL Nagarkoti:LH Ferguson:SP Narine:PJ Cummins:CV Varun:,44.0
+692,1216537.0,1.0,Sheikh Zayed Stadium,2020.0,Kings XI Punjab,Rajasthan Royals,CH Gayle:Mandeep Singh:KL Rahul:,VR Aaron:JC Archer:Kartik Tyagi:,53.0
+693,1216537.0,2.0,Sheikh Zayed Stadium,2020.0,Rajasthan Royals,Kings XI Punjab,SV Samson:RV Uthappa:BA Stokes:,Arshdeep Singh:M Ashwin:CJ Jordan:Mohammed Shami:,66.0
+694,1216502.0,1.0,Sharjah Cricket Stadium,2020.0,Royal Challengers Bangalore,Sunrisers Hyderabad,D Padikkal:AB de Villiers:V Kohli:JR Philippe:,JO Holder:T Natarajan:Sandeep Sharma:,30.0
+695,1216502.0,2.0,Sharjah Cricket Stadium,2020.0,Sunrisers Hyderabad,Royal Challengers Bangalore,WP Saha:MK Pandey:DA Warner:,Mohammed Siraj:CH Morris:Washington Sundar:NA Saini:,58.0
+696,1216505.0,1.0,Sheikh Zayed Stadium,2020.0,Royal Challengers Bangalore,Delhi Capitals,D Padikkal:V Kohli:JR Philippe:,R Ashwin:K Rabada:DR Sams:A Nortje:,40.0
+697,1216505.0,2.0,Sheikh Zayed Stadium,2020.0,Delhi Capitals,Royal Challengers Bangalore,PP Shaw:S Dhawan:AM Rahane:,I Udana:Mohammed Siraj:CH Morris:Washington Sundar:,53.0
+698,1216506.0,1.0,Sheikh Zayed Stadium,2020.0,Kings XI Punjab,Chennai Super Kings,CH Gayle:MA Agarwal:KL Rahul:,DL Chahar:SN Thakur:SM Curran:L Ngidi:,53.0
+699,1216506.0,2.0,Sheikh Zayed Stadium,2020.0,Chennai Super Kings,Kings XI Punjab,F du Plessis:RD Gaikwad:,CJ Jordan:JDS Neesham:Ravi Bishnoi:Mohammed Shami:,57.0
+700,1216530.0,1.0,Dubai International Cricket Stadium,2020.0,Kolkata Knight Riders,Rajasthan Royals,RA Tripathi:Shubman Gill:N Rana:,VR Aaron:BA Stokes:JC Archer:S Gopal:,55.0
+701,1216530.0,2.0,Dubai International Cricket Stadium,2020.0,Rajasthan Royals,Kolkata Knight Riders,SV Samson:JC Buttler:BA Stokes:R Parag:RV Uthappa:SPD Smith:R Tewatia:,PJ Cummins:Shivam Mavi:CV Varun:,41.0
+702,1216535.0,1.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Mumbai Indians,PP Shaw:RR Pant:S Dhawan:SS Iyer:,KH Pandya:TA Boult:J Yadav:,22.0
+703,1216535.0,2.0,Dubai International Cricket Stadium,2020.0,Mumbai Indians,Delhi Capitals,Ishan Kishan:Q de Kock:,R Ashwin:K Rabada:MP Stoinis:A Nortje:,38.0
+704,1216495.0,1.0,Sharjah Cricket Stadium,2020.0,Mumbai Indians,Sunrisers Hyderabad,RG Sharma:Ishan Kishan:SA Yadav:Q de Kock:,JO Holder:S Nadeem:Sandeep Sharma:,48.0
+705,1216495.0,2.0,Sharjah Cricket Stadium,2020.0,Sunrisers Hyderabad,Mumbai Indians,WP Saha:DA Warner:,NM Coulter-Nile:RD Chahar:DS Kulkarni:JL Pattinson:,56.0
+706,1237177.0,1.0,Dubai International Cricket Stadium,2020.0,Mumbai Indians,Delhi Capitals,RG Sharma:SA Yadav:Q de Kock:,A Nortje:K Rabada:DR Sams:R Ashwin:AR Patel:,63.0
+707,1237177.0,2.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Mumbai Indians,S Dhawan:AM Rahane:PP Shaw:RR Pant:MP Stoinis:SS Iyer:,KH Pandya:TA Boult:NM Coulter-Nile:JJ Bumrah:,32.0
+708,1237178.0,1.0,Sheikh Zayed Stadium,2020.0,Royal Challengers Bangalore,Sunrisers Hyderabad,AB de Villiers:D Padikkal:AJ Finch:V Kohli:,JO Holder:T Natarajan:Sandeep Sharma:,32.0
+709,1237178.0,2.0,Sheikh Zayed Stadium,2020.0,Sunrisers Hyderabad,Royal Challengers Bangalore,MK Pandey:DA Warner:SP Goswami:KS Williamson:,Mohammed Siraj:Washington Sundar:NA Saini:,48.0
+710,1237180.0,1.0,Sheikh Zayed Stadium,2020.0,Delhi Capitals,Sunrisers Hyderabad,S Dhawan:MP Stoinis:,JO Holder:S Nadeem:Sandeep Sharma:,65.0
+711,1237180.0,2.0,Sheikh Zayed Stadium,2020.0,Sunrisers Hyderabad,Delhi Capitals,DA Warner:KS Williamson:JO Holder:PK Garg:MK Pandey:,R Ashwin:K Rabada:MP Stoinis:A Nortje:,49.0
+712,1237181.0,1.0,Dubai International Cricket Stadium,2020.0,Delhi Capitals,Mumbai Indians,S Dhawan:AM Rahane:RR Pant:MP Stoinis:SS Iyer:,NM Coulter-Nile:TA Boult:JJ Bumrah:J Yadav:,41.0
+713,1237181.0,2.0,Dubai International Cricket Stadium,2020.0,Mumbai Indians,Delhi Capitals,RG Sharma:SA Yadav:Q de Kock:,A Nortje:K Rabada:MP Stoinis:R Ashwin:AR Patel:,61.0
+714,1254058.0,1.0,MA Chidambaram Stadium,2021.0,Mumbai Indians,Royal Challengers Bangalore,CA Lynn:RG Sharma:SA Yadav:,Mohammed Siraj:YS Chahal:KA Jamieson:,41.0
+715,1254058.0,2.0,MA Chidambaram Stadium,2021.0,Royal Challengers Bangalore,Mumbai Indians,RM Patidar:Washington Sundar:GJ Maxwell:V Kohli:,KH Pandya:TA Boult:M Jansen:JJ Bumrah:,46.0
+716,1254059.0,1.0,Wankhede Stadium,2021.0,Chennai Super Kings,Delhi Capitals,F du Plessis:SK Raina:MM Ali:RD Gaikwad:,TK Curran:Avesh Khan:CR Woakes:R Ashwin:,33.0
+717,1254059.0,2.0,Wankhede Stadium,2021.0,Delhi Capitals,Chennai Super Kings,PP Shaw:S Dhawan:,DL Chahar:SN Thakur:SM Curran:,65.0
+718,1254060.0,1.0,MA Chidambaram Stadium,2021.0,Kolkata Knight Riders,Sunrisers Hyderabad,Shubman Gill:N Rana:,T Natarajan:B Kumar:Mohammad Nabi:Sandeep Sharma:,50.0
+719,1254060.0,2.0,MA Chidambaram Stadium,2021.0,Sunrisers Hyderabad,Kolkata Knight Riders,DA Warner:MK Pandey:WP Saha:JM Bairstow:,PJ Cummins:Shakib Al Hasan:Harbhajan Singh:M Prasidh Krishna:,35.0
